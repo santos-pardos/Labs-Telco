@@ -1,0 +1,421 @@
+ticket_id,timestamp,customer_id,category,status,priority,resolution_hours,description
+T000001,2025-10-06T17:10:14,C00145,intermitencias,resuelto,alta,49.4,"Conexión inestable, especialmente por la noche."
+T000002,2025-10-26T09:30:33,C00499,sin_servicio,cerrado,media,58.7,"Router sin luz verde, cliente sin servicio."
+T000003,2025-10-25T02:17:42,C00467,facturacion,resuelto,media,15.8,Duplicidad en cobro de cuota mensual.
+T000004,2025-10-05T07:41:44,C00465,facturacion,resuelto,media,22.9,Cargo no reconocido en la última factura.
+T000005,2025-10-25T20:10:47,C00039,sin_servicio,cerrado,media,14.7,Sin conexión desde anoche.
+T000006,2025-10-13T19:43:40,C00238,sin_servicio,cerrado,media,44.1,"Router sin luz verde, cliente sin servicio."
+T000007,2025-10-15T02:32:07,C00185,velocidad_baja,en_proceso,baja,,Cliente reporta velocidad inferior a la contratada.
+T000008,2025-10-01T11:16:08,C00437,instalacion,resuelto,baja,81.8,Solicita cita para nueva instalación.
+T000009,2025-10-31T04:27:27,C00138,intermitencias,resuelto,baja,34.6,Wifi se cae varias veces al día.
+T000010,2025-10-23T03:54:22,C00140,sin_servicio,resuelto,baja,11.4,"Router sin luz verde, cliente sin servicio."
+T000011,2025-10-06T11:43:13,C00068,consulta_tarifa,resuelto,media,40.8,Cliente pregunta por tarifas de fibra 1000.
+T000012,2025-10-24T10:21:25,C00411,velocidad_baja,escalado,alta,10.4,Velocidad muy baja en horario de tarde.
+T000013,2025-10-30T16:17:03,C00015,portabilidad,en_proceso,baja,,"Portabilidad bloqueada, requiere intervención."
+T000014,2025-10-03T05:33:41,C00033,intermitencias,resuelto,media,85.3,Wifi se cae varias veces al día.
+T000015,2025-10-28T23:50:41,C00371,averia_router,resuelto,baja,83.4,Router pierde configuración tras corte de luz.
+T000016,2025-10-31T00:18:02,C00049,facturacion,escalado,media,32.8,Duplicidad en cobro de cuota mensual.
+T000017,2025-10-19T16:24:49,C00077,consulta_tarifa,resuelto,baja,33.5,Consulta sobre promociones vigentes.
+T000018,2025-10-23T18:45:40,C00437,velocidad_baja,abierto,critica,,Velocidad muy baja en horario de tarde.
+T000019,2025-10-17T01:31:13,C00497,portabilidad,cerrado,baja,47.5,Solicita portabilidad desde otro operador.
+T000020,2025-10-19T09:08:41,C00207,averia_router,abierto,baja,,Router pierde configuración tras corte de luz.
+T000021,2025-10-22T18:04:21,C00046,facturacion,abierto,media,,Duplicidad en cobro de cuota mensual.
+T000022,2025-10-01T20:42:09,C00053,portabilidad,resuelto,baja,48.0,Confirmación de portabilidad recibida.
+T000023,2025-10-30T07:56:52,C00494,consulta_tarifa,resuelto,media,0.5,Cliente pregunta por tarifas de fibra 1000.
+T000024,2025-10-17T13:07:26,C00187,averia_router,cerrado,media,63.0,"Router emite olor a quemado, requiere sustitución."
+T000025,2025-10-30T02:59:37,C00243,velocidad_baja,cerrado,alta,32.2,Velocidad muy baja en horario de tarde.
+T000026,2025-10-01T02:33:34,C00175,instalacion,cerrado,baja,73.0,Solicita cita para nueva instalación.
+T000027,2025-10-19T03:36:49,C00360,instalacion,cerrado,critica,28.4,Técnico no acudió a la cita programada.
+T000028,2025-10-20T20:45:54,C00055,sin_servicio,abierto,baja,,Sin conexión desde anoche.
+T000029,2025-10-11T11:10:47,C00235,averia_router,resuelto,baja,89.3,"Router emite olor a quemado, requiere sustitución."
+T000030,2025-10-29T14:00:52,C00064,facturacion,cerrado,baja,40.1,Duplicidad en cobro de cuota mensual.
+T000031,2025-10-01T05:03:13,C00272,portabilidad,resuelto,media,48.7,"Portabilidad bloqueada, requiere intervención."
+T000032,2025-10-09T14:27:20,C00355,velocidad_baja,resuelto,media,56.4,Velocidad muy baja en horario de tarde.
+T000033,2025-10-30T10:13:42,C00452,intermitencias,cerrado,baja,37.5,"Conexión inestable, especialmente por la noche."
+T000034,2025-10-13T01:13:08,C00141,instalacion,resuelto,baja,94.0,Técnico no acudió a la cita programada.
+T000035,2025-10-07T16:59:28,C00212,consulta_tarifa,escalado,critica,43.7,Cliente pregunta por tarifas de fibra 1000.
+T000036,2025-10-27T20:58:09,C00324,averia_router,cerrado,media,30.5,Router pierde configuración tras corte de luz.
+T000037,2025-10-07T10:34:25,C00364,facturacion,resuelto,media,28.3,Cliente reclama subida de cuota sin aviso.
+T000038,2025-10-18T02:23:12,C00288,intermitencias,resuelto,media,31.3,Cortes intermitentes cada pocos minutos.
+T000039,2025-10-26T22:02:30,C00147,portabilidad,resuelto,critica,68.3,Confirmación de portabilidad recibida.
+T000040,2025-10-03T13:49:30,C00344,consulta_tarifa,cerrado,media,2.9,Cliente pregunta por tarifas de fibra 1000.
+T000041,2025-10-14T21:55:52,C00350,velocidad_baja,en_proceso,alta,,Cliente reporta velocidad inferior a la contratada.
+T000042,2025-10-10T21:40:41,C00386,averia_router,en_proceso,baja,,"Router emite olor a quemado, requiere sustitución."
+T000043,2025-10-28T06:38:36,C00443,velocidad_baja,resuelto,media,59.3,Velocidad muy baja en horario de tarde.
+T000044,2025-10-14T23:07:23,C00355,facturacion,cerrado,media,23.2,Duplicidad en cobro de cuota mensual.
+T000045,2025-10-16T04:16:05,C00495,velocidad_baja,cerrado,baja,91.9,Velocidad muy baja en horario de tarde.
+T000046,2025-10-22T12:12:24,C00425,velocidad_baja,abierto,baja,,Velocidad muy baja en horario de tarde.
+T000047,2025-10-27T12:51:10,C00379,facturacion,cerrado,media,62.3,Duplicidad en cobro de cuota mensual.
+T000048,2025-10-04T14:45:45,C00096,facturacion,cerrado,critica,28.6,Cargo no reconocido en la última factura.
+T000049,2025-10-28T00:29:03,C00136,intermitencias,cerrado,baja,4.4,Wifi se cae varias veces al día.
+T000050,2025-10-17T01:08:00,C00239,intermitencias,en_proceso,alta,,Cortes intermitentes cada pocos minutos.
+T000051,2025-10-03T11:15:03,C00397,intermitencias,abierto,alta,,"Conexión inestable, especialmente por la noche."
+T000052,2025-10-16T10:19:57,C00270,averia_router,resuelto,media,34.7,Router pierde configuración tras corte de luz.
+T000053,2025-10-21T04:35:42,C00279,facturacion,escalado,media,75.6,Cargo no reconocido en la última factura.
+T000054,2025-10-17T02:40:20,C00170,consulta_tarifa,en_proceso,baja,,Cliente pregunta por tarifas de fibra 1000.
+T000055,2025-10-28T06:00:08,C00422,instalacion,resuelto,critica,59.5,Instalación pendiente desde hace 10 días.
+T000056,2025-10-30T19:00:48,C00471,velocidad_baja,en_proceso,baja,,Cliente reporta velocidad inferior a la contratada.
+T000057,2025-10-19T17:34:40,C00132,facturacion,escalado,media,31.1,Cargo no reconocido en la última factura.
+T000058,2025-10-25T23:12:48,C00412,averia_router,abierto,media,,"Router emite olor a quemado, requiere sustitución."
+T000059,2025-10-25T22:43:50,C00043,portabilidad,resuelto,baja,62.7,"Portabilidad bloqueada, requiere intervención."
+T000060,2025-10-26T21:13:47,C00004,sin_servicio,en_proceso,critica,,"Sin servicio en toda la zona, varios avisos."
+T000061,2025-10-21T14:14:23,C00428,sin_servicio,resuelto,media,20.9,"Sin servicio en toda la zona, varios avisos."
+T000062,2025-10-22T03:05:19,C00332,sin_servicio,resuelto,alta,84.4,"Sin servicio en toda la zona, varios avisos."
+T000063,2025-10-02T20:08:26,C00045,sin_servicio,cerrado,baja,44.4,"Router sin luz verde, cliente sin servicio."
+T000064,2025-10-04T10:04:15,C00295,sin_servicio,abierto,alta,,"Sin servicio en toda la zona, varios avisos."
+T000065,2025-10-22T00:30:38,C00162,facturacion,cerrado,media,43.6,Cliente reclama subida de cuota sin aviso.
+T000066,2025-10-31T00:25:45,C00033,velocidad_baja,resuelto,baja,1.1,Velocidad muy baja en horario de tarde.
+T000067,2025-10-15T01:41:02,C00403,velocidad_baja,cerrado,baja,89.1,Cliente reporta velocidad inferior a la contratada.
+T000068,2025-10-20T04:20:25,C00421,averia_router,resuelto,baja,89.0,"Router emite olor a quemado, requiere sustitución."
+T000069,2025-10-27T11:48:54,C00152,velocidad_baja,resuelto,media,13.5,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000070,2025-10-19T02:43:42,C00491,intermitencias,resuelto,alta,92.7,"Conexión inestable, especialmente por la noche."
+T000071,2025-10-28T19:15:55,C00306,velocidad_baja,resuelto,media,12.3,Cliente reporta velocidad inferior a la contratada.
+T000072,2025-10-17T16:36:58,C00109,consulta_tarifa,resuelto,critica,29.6,Consulta sobre promociones vigentes.
+T000073,2025-10-11T17:14:11,C00316,consulta_tarifa,cerrado,alta,14.1,Cliente pregunta por tarifas de fibra 1000.
+T000074,2025-10-03T15:22:01,C00436,averia_router,en_proceso,baja,,Router pierde configuración tras corte de luz.
+T000075,2025-10-05T18:24:50,C00102,portabilidad,resuelto,baja,64.6,"Portabilidad bloqueada, requiere intervención."
+T000076,2025-10-05T20:33:39,C00146,portabilidad,escalado,baja,64.6,Solicita portabilidad desde otro operador.
+T000077,2025-10-15T20:08:15,C00356,sin_servicio,cerrado,baja,43.5,"Sin servicio en toda la zona, varios avisos."
+T000078,2025-10-09T04:28:45,C00003,intermitencias,resuelto,baja,30.7,Wifi se cae varias veces al día.
+T000079,2025-10-14T10:21:19,C00431,instalacion,resuelto,baja,71.2,Instalación pendiente desde hace 10 días.
+T000080,2025-10-23T11:15:26,C00229,instalacion,en_proceso,media,,Instalación pendiente desde hace 10 días.
+T000081,2025-10-30T10:46:20,C00042,instalacion,cerrado,media,10.9,Técnico no acudió a la cita programada.
+T000082,2025-10-31T10:03:50,C00040,averia_router,cerrado,baja,51.9,"Router emite olor a quemado, requiere sustitución."
+T000083,2025-10-29T02:28:05,C00208,sin_servicio,cerrado,alta,60.8,"Sin servicio en toda la zona, varios avisos."
+T000084,2025-10-23T22:02:27,C00335,facturacion,cerrado,media,52.4,Duplicidad en cobro de cuota mensual.
+T000085,2025-10-15T03:02:18,C00069,intermitencias,resuelto,baja,74.2,"Conexión inestable, especialmente por la noche."
+T000086,2025-10-12T14:18:58,C00435,portabilidad,resuelto,baja,35.2,Solicita portabilidad desde otro operador.
+T000087,2025-10-28T11:13:09,C00338,intermitencias,cerrado,baja,15.7,"Conexión inestable, especialmente por la noche."
+T000088,2025-10-24T16:08:39,C00119,intermitencias,cerrado,media,34.8,Cortes intermitentes cada pocos minutos.
+T000089,2025-10-18T12:53:18,C00199,sin_servicio,resuelto,baja,64.3,"Sin servicio en toda la zona, varios avisos."
+T000090,2025-10-16T17:34:12,C00053,portabilidad,cerrado,alta,4.3,Confirmación de portabilidad recibida.
+T000091,2025-10-19T06:50:24,C00335,averia_router,cerrado,baja,52.5,Router no enciende.
+T000092,2025-10-13T05:07:09,C00193,consulta_tarifa,resuelto,media,80.3,Consulta sobre promociones vigentes.
+T000093,2025-10-24T09:41:56,C00455,facturacion,resuelto,baja,83.4,Cliente reclama subida de cuota sin aviso.
+T000094,2025-10-25T23:29:02,C00330,velocidad_baja,resuelto,baja,16.3,Cliente reporta velocidad inferior a la contratada.
+T000095,2025-10-06T17:51:52,C00339,averia_router,resuelto,baja,35.1,Router pierde configuración tras corte de luz.
+T000096,2025-10-24T05:51:34,C00246,facturacion,resuelto,baja,11.3,Duplicidad en cobro de cuota mensual.
+T000097,2025-10-03T02:16:00,C00066,facturacion,resuelto,media,39.7,Cargo no reconocido en la última factura.
+T000098,2025-10-08T03:06:36,C00029,intermitencias,en_proceso,media,,"Conexión inestable, especialmente por la noche."
+T000099,2025-10-28T08:38:49,C00327,intermitencias,resuelto,baja,92.0,"Conexión inestable, especialmente por la noche."
+T000100,2025-10-11T12:20:58,C00230,velocidad_baja,cerrado,media,78.9,Cliente reporta velocidad inferior a la contratada.
+T000101,2025-10-07T22:16:18,C00407,portabilidad,cerrado,baja,79.8,Confirmación de portabilidad recibida.
+T000102,2025-10-17T15:14:27,C00473,intermitencias,resuelto,media,16.5,"Conexión inestable, especialmente por la noche."
+T000103,2025-10-06T06:29:36,C00009,portabilidad,resuelto,baja,36.6,Solicita portabilidad desde otro operador.
+T000104,2025-10-30T09:28:17,C00050,facturacion,resuelto,alta,65.9,Cargo no reconocido en la última factura.
+T000105,2025-10-25T10:25:15,C00386,intermitencias,resuelto,media,4.2,"Conexión inestable, especialmente por la noche."
+T000106,2025-10-27T04:18:49,C00424,sin_servicio,en_proceso,media,,"Sin servicio en toda la zona, varios avisos."
+T000107,2025-10-21T10:07:56,C00190,velocidad_baja,cerrado,alta,62.5,Velocidad muy baja en horario de tarde.
+T000108,2025-10-19T12:10:21,C00180,velocidad_baja,resuelto,media,90.1,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000109,2025-10-14T18:01:46,C00307,sin_servicio,resuelto,baja,73.6,Sin conexión desde anoche.
+T000110,2025-10-29T01:24:13,C00268,consulta_tarifa,resuelto,baja,71.5,Cliente pregunta por tarifas de fibra 1000.
+T000111,2025-10-20T20:20:20,C00186,sin_servicio,resuelto,baja,20.1,"Router sin luz verde, cliente sin servicio."
+T000112,2025-10-13T16:26:23,C00438,sin_servicio,en_proceso,media,,"Router sin luz verde, cliente sin servicio."
+T000113,2025-10-10T21:19:13,C00212,consulta_tarifa,resuelto,media,95.2,Solicita información sobre paquete convergente.
+T000114,2025-10-13T07:40:20,C00158,portabilidad,en_proceso,media,,"Portabilidad bloqueada, requiere intervención."
+T000115,2025-10-06T18:44:41,C00383,instalacion,cerrado,baja,13.7,Técnico no acudió a la cita programada.
+T000116,2025-10-25T16:15:47,C00206,facturacion,resuelto,media,16.0,Cargo no reconocido en la última factura.
+T000117,2025-10-08T19:16:24,C00200,instalacion,cerrado,media,65.9,Solicita cita para nueva instalación.
+T000118,2025-10-22T03:15:05,C00046,velocidad_baja,cerrado,alta,45.5,Velocidad muy baja en horario de tarde.
+T000119,2025-10-19T15:46:20,C00477,sin_servicio,resuelto,baja,58.7,"Sin servicio en toda la zona, varios avisos."
+T000120,2025-10-03T18:56:57,C00485,consulta_tarifa,resuelto,media,68.5,Consulta sobre promociones vigentes.
+T000121,2025-10-26T03:41:32,C00147,intermitencias,resuelto,media,19.8,"Conexión inestable, especialmente por la noche."
+T000122,2025-10-12T05:54:58,C00315,facturacion,abierto,media,,Duplicidad en cobro de cuota mensual.
+T000123,2025-10-05T05:10:45,C00142,intermitencias,resuelto,baja,63.1,Cortes intermitentes cada pocos minutos.
+T000124,2025-10-01T17:54:11,C00378,consulta_tarifa,resuelto,baja,56.5,Consulta sobre promociones vigentes.
+T000125,2025-10-29T07:09:55,C00179,sin_servicio,cerrado,media,69.8,"Sin servicio en toda la zona, varios avisos."
+T000126,2025-10-23T01:49:57,C00477,instalacion,escalado,baja,58.4,Solicita cita para nueva instalación.
+T000127,2025-10-28T02:51:07,C00038,consulta_tarifa,resuelto,baja,39.4,Cliente pregunta por tarifas de fibra 1000.
+T000128,2025-10-27T02:42:10,C00417,averia_router,resuelto,baja,49.5,"Router emite olor a quemado, requiere sustitución."
+T000129,2025-10-17T11:44:00,C00493,averia_router,resuelto,critica,54.3,Router no enciende.
+T000130,2025-10-06T15:27:44,C00133,portabilidad,resuelto,alta,82.8,"Portabilidad bloqueada, requiere intervención."
+T000131,2025-10-12T03:53:16,C00410,sin_servicio,resuelto,alta,21.5,"Sin servicio en toda la zona, varios avisos."
+T000132,2025-10-13T18:49:28,C00128,instalacion,resuelto,baja,51.7,Técnico no acudió a la cita programada.
+T000133,2025-10-04T16:34:47,C00284,averia_router,en_proceso,media,,"Router emite olor a quemado, requiere sustitución."
+T000134,2025-10-09T20:57:33,C00485,intermitencias,resuelto,baja,85.9,Wifi se cae varias veces al día.
+T000135,2025-10-11T00:54:52,C00118,facturacion,resuelto,baja,70.7,Cliente reclama subida de cuota sin aviso.
+T000136,2025-10-06T19:40:06,C00472,facturacion,cerrado,alta,34.5,Cargo no reconocido en la última factura.
+T000137,2025-10-03T01:14:24,C00435,sin_servicio,resuelto,media,59.1,"Sin servicio en toda la zona, varios avisos."
+T000138,2025-10-14T08:05:13,C00252,portabilidad,resuelto,baja,86.3,Confirmación de portabilidad recibida.
+T000139,2025-10-28T23:51:49,C00066,intermitencias,escalado,alta,27.3,Cortes intermitentes cada pocos minutos.
+T000140,2025-10-25T09:25:33,C00178,velocidad_baja,resuelto,media,90.2,Cliente reporta velocidad inferior a la contratada.
+T000141,2025-10-26T03:45:09,C00236,consulta_tarifa,cerrado,alta,44.2,Cliente pregunta por tarifas de fibra 1000.
+T000142,2025-10-05T21:22:47,C00167,instalacion,resuelto,baja,20.6,Técnico no acudió a la cita programada.
+T000143,2025-10-14T01:53:00,C00242,instalacion,resuelto,baja,52.9,Solicita cita para nueva instalación.
+T000144,2025-10-19T01:46:19,C00187,instalacion,resuelto,media,20.6,Técnico no acudió a la cita programada.
+T000145,2025-10-12T02:17:58,C00417,consulta_tarifa,resuelto,baja,13.0,Consulta sobre promociones vigentes.
+T000146,2025-10-10T12:25:48,C00075,sin_servicio,cerrado,alta,53.5,"Router sin luz verde, cliente sin servicio."
+T000147,2025-10-31T14:45:46,C00265,intermitencias,resuelto,baja,40.8,Cortes intermitentes cada pocos minutos.
+T000148,2025-10-03T07:35:07,C00204,instalacion,cerrado,baja,54.2,Técnico no acudió a la cita programada.
+T000149,2025-10-31T13:50:33,C00050,sin_servicio,resuelto,baja,78.2,"Router sin luz verde, cliente sin servicio."
+T000150,2025-10-13T12:15:34,C00177,portabilidad,cerrado,baja,34.9,Confirmación de portabilidad recibida.
+T000151,2025-10-10T15:48:10,C00296,velocidad_baja,resuelto,baja,65.4,Velocidad muy baja en horario de tarde.
+T000152,2025-10-24T15:58:16,C00397,intermitencias,escalado,baja,31.5,"Conexión inestable, especialmente por la noche."
+T000153,2025-10-08T00:45:37,C00445,portabilidad,cerrado,baja,27.9,Confirmación de portabilidad recibida.
+T000154,2025-10-28T18:00:21,C00208,intermitencias,resuelto,alta,40.8,"Conexión inestable, especialmente por la noche."
+T000155,2025-10-16T09:11:23,C00335,sin_servicio,abierto,baja,,"Router sin luz verde, cliente sin servicio."
+T000156,2025-10-18T15:07:03,C00383,averia_router,cerrado,media,38.3,"Router emite olor a quemado, requiere sustitución."
+T000157,2025-10-12T09:21:37,C00339,portabilidad,resuelto,baja,2.7,Confirmación de portabilidad recibida.
+T000158,2025-10-20T06:35:29,C00053,averia_router,cerrado,media,8.1,Router no enciende.
+T000159,2025-10-03T14:42:40,C00014,sin_servicio,abierto,alta,,"Sin servicio en toda la zona, varios avisos."
+T000160,2025-10-08T12:54:27,C00044,consulta_tarifa,resuelto,critica,10.4,Consulta sobre promociones vigentes.
+T000161,2025-10-07T03:16:49,C00068,consulta_tarifa,resuelto,baja,27.6,Consulta sobre promociones vigentes.
+T000162,2025-10-24T02:45:37,C00240,intermitencias,abierto,media,,Wifi se cae varias veces al día.
+T000163,2025-10-09T14:15:45,C00303,averia_router,resuelto,baja,91.1,Router pierde configuración tras corte de luz.
+T000164,2025-10-26T21:54:12,C00159,portabilidad,resuelto,media,54.4,Confirmación de portabilidad recibida.
+T000165,2025-10-18T18:10:06,C00212,instalacion,resuelto,baja,9.1,Instalación pendiente desde hace 10 días.
+T000166,2025-10-07T14:48:05,C00177,averia_router,en_proceso,baja,,Router pierde configuración tras corte de luz.
+T000167,2025-10-15T13:04:17,C00005,averia_router,resuelto,baja,88.6,"Router emite olor a quemado, requiere sustitución."
+T000168,2025-10-19T03:19:36,C00097,consulta_tarifa,cerrado,media,76.6,Consulta sobre promociones vigentes.
+T000169,2025-10-19T22:03:37,C00425,consulta_tarifa,cerrado,media,24.4,Consulta sobre promociones vigentes.
+T000170,2025-10-30T18:26:55,C00414,consulta_tarifa,resuelto,baja,60.2,Consulta sobre promociones vigentes.
+T000171,2025-10-10T03:02:11,C00437,averia_router,resuelto,media,77.7,"Router emite olor a quemado, requiere sustitución."
+T000172,2025-10-23T02:30:47,C00317,sin_servicio,en_proceso,baja,,"Sin servicio en toda la zona, varios avisos."
+T000173,2025-10-08T09:16:00,C00026,portabilidad,resuelto,media,18.4,Solicita portabilidad desde otro operador.
+T000174,2025-10-07T01:40:52,C00367,velocidad_baja,en_proceso,baja,,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000175,2025-10-11T13:02:32,C00176,portabilidad,cerrado,baja,14.9,"Portabilidad bloqueada, requiere intervención."
+T000176,2025-10-02T12:58:35,C00170,consulta_tarifa,resuelto,alta,95.8,Solicita información sobre paquete convergente.
+T000177,2025-10-04T11:10:09,C00279,sin_servicio,cerrado,critica,5.9,"Router sin luz verde, cliente sin servicio."
+T000178,2025-10-19T12:34:11,C00425,portabilidad,en_proceso,alta,,"Portabilidad bloqueada, requiere intervención."
+T000179,2025-10-19T16:19:19,C00395,velocidad_baja,en_proceso,alta,,Cliente reporta velocidad inferior a la contratada.
+T000180,2025-10-05T13:28:18,C00267,portabilidad,resuelto,critica,19.5,Confirmación de portabilidad recibida.
+T000181,2025-10-08T16:47:44,C00323,facturacion,resuelto,media,30.3,Cliente reclama subida de cuota sin aviso.
+T000182,2025-10-31T23:55:47,C00153,velocidad_baja,cerrado,media,12.2,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000183,2025-10-12T10:55:12,C00325,facturacion,resuelto,baja,64.2,Cargo no reconocido en la última factura.
+T000184,2025-10-20T05:09:00,C00405,consulta_tarifa,resuelto,baja,26.9,Cliente pregunta por tarifas de fibra 1000.
+T000185,2025-10-24T01:43:49,C00353,facturacion,abierto,baja,,Duplicidad en cobro de cuota mensual.
+T000186,2025-10-31T00:46:24,C00174,intermitencias,resuelto,baja,15.6,Cortes intermitentes cada pocos minutos.
+T000187,2025-10-27T00:53:48,C00406,velocidad_baja,abierto,media,,Velocidad muy baja en horario de tarde.
+T000188,2025-10-17T20:39:16,C00413,sin_servicio,en_proceso,baja,,"Sin servicio en toda la zona, varios avisos."
+T000189,2025-10-07T12:58:27,C00129,portabilidad,cerrado,baja,36.6,Confirmación de portabilidad recibida.
+T000190,2025-10-24T18:59:54,C00098,velocidad_baja,resuelto,media,28.6,Velocidad muy baja en horario de tarde.
+T000191,2025-10-27T22:03:46,C00083,intermitencias,resuelto,baja,45.2,"Conexión inestable, especialmente por la noche."
+T000192,2025-10-18T19:43:02,C00233,sin_servicio,resuelto,media,78.8,"Sin servicio en toda la zona, varios avisos."
+T000193,2025-10-31T02:02:35,C00439,velocidad_baja,cerrado,media,70.6,Cliente reporta velocidad inferior a la contratada.
+T000194,2025-10-27T03:55:47,C00420,instalacion,cerrado,baja,69.4,Técnico no acudió a la cita programada.
+T000195,2025-10-08T11:34:34,C00314,consulta_tarifa,en_proceso,media,,Consulta sobre promociones vigentes.
+T000196,2025-10-04T05:41:15,C00023,averia_router,resuelto,media,11.0,Router pierde configuración tras corte de luz.
+T000197,2025-10-24T13:29:50,C00099,intermitencias,en_proceso,baja,,Cortes intermitentes cada pocos minutos.
+T000198,2025-10-24T18:47:09,C00270,sin_servicio,abierto,media,,"Router sin luz verde, cliente sin servicio."
+T000199,2025-10-04T10:34:26,C00007,averia_router,abierto,baja,,Router pierde configuración tras corte de luz.
+T000200,2025-10-03T22:43:15,C00185,facturacion,resuelto,alta,80.0,Cliente reclama subida de cuota sin aviso.
+T000201,2025-10-13T21:41:51,C00271,consulta_tarifa,cerrado,alta,6.1,Consulta sobre promociones vigentes.
+T000202,2025-10-26T05:14:39,C00050,velocidad_baja,cerrado,alta,7.9,Cliente reporta velocidad inferior a la contratada.
+T000203,2025-10-13T01:49:47,C00292,sin_servicio,cerrado,media,18.6,"Sin servicio en toda la zona, varios avisos."
+T000204,2025-10-28T23:44:43,C00184,intermitencias,resuelto,media,71.8,"Conexión inestable, especialmente por la noche."
+T000205,2025-10-27T16:45:22,C00206,portabilidad,cerrado,media,10.4,Solicita portabilidad desde otro operador.
+T000206,2025-10-16T07:10:55,C00282,instalacion,resuelto,media,57.8,Instalación pendiente desde hace 10 días.
+T000207,2025-10-16T16:50:51,C00312,instalacion,cerrado,media,61.0,Técnico no acudió a la cita programada.
+T000208,2025-10-13T08:02:07,C00185,facturacion,resuelto,baja,73.6,Duplicidad en cobro de cuota mensual.
+T000209,2025-10-29T22:06:50,C00009,portabilidad,resuelto,baja,69.9,"Portabilidad bloqueada, requiere intervención."
+T000210,2025-10-11T10:17:12,C00439,intermitencias,escalado,baja,29.2,Cortes intermitentes cada pocos minutos.
+T000211,2025-10-14T09:30:48,C00471,instalacion,abierto,alta,,Técnico no acudió a la cita programada.
+T000212,2025-10-07T17:15:26,C00136,intermitencias,en_proceso,media,,Cortes intermitentes cada pocos minutos.
+T000213,2025-10-05T11:04:38,C00293,instalacion,cerrado,baja,25.0,Instalación pendiente desde hace 10 días.
+T000214,2025-10-24T10:11:30,C00089,consulta_tarifa,resuelto,baja,7.9,Solicita información sobre paquete convergente.
+T000215,2025-10-29T21:29:40,C00329,portabilidad,cerrado,media,55.5,Solicita portabilidad desde otro operador.
+T000216,2025-10-04T19:25:58,C00400,averia_router,abierto,alta,,"Router emite olor a quemado, requiere sustitución."
+T000217,2025-10-21T05:16:58,C00477,velocidad_baja,cerrado,baja,84.5,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000218,2025-10-01T13:19:19,C00325,sin_servicio,cerrado,baja,62.8,"Sin servicio en toda la zona, varios avisos."
+T000219,2025-10-27T05:03:49,C00290,consulta_tarifa,abierto,media,,Solicita información sobre paquete convergente.
+T000220,2025-10-20T01:44:29,C00498,intermitencias,resuelto,media,15.1,"Conexión inestable, especialmente por la noche."
+T000221,2025-10-15T01:37:18,C00403,portabilidad,cerrado,media,9.1,"Portabilidad bloqueada, requiere intervención."
+T000222,2025-10-28T17:46:35,C00382,consulta_tarifa,en_proceso,baja,,Solicita información sobre paquete convergente.
+T000223,2025-10-07T07:53:53,C00391,velocidad_baja,resuelto,baja,38.6,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000224,2025-10-10T12:28:20,C00288,intermitencias,resuelto,baja,38.3,"Conexión inestable, especialmente por la noche."
+T000225,2025-10-28T23:06:35,C00046,facturacion,resuelto,baja,41.6,Duplicidad en cobro de cuota mensual.
+T000226,2025-10-17T17:24:02,C00305,sin_servicio,resuelto,media,33.8,"Router sin luz verde, cliente sin servicio."
+T000227,2025-10-31T06:03:35,C00075,velocidad_baja,cerrado,baja,33.9,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000228,2025-10-19T03:31:58,C00080,portabilidad,abierto,alta,,Solicita portabilidad desde otro operador.
+T000229,2025-10-08T04:03:22,C00445,sin_servicio,en_proceso,baja,,"Sin servicio en toda la zona, varios avisos."
+T000230,2025-10-15T19:29:17,C00231,averia_router,abierto,media,,Router no enciende.
+T000231,2025-10-11T06:51:09,C00105,portabilidad,abierto,baja,,Confirmación de portabilidad recibida.
+T000232,2025-10-01T21:25:27,C00193,averia_router,resuelto,media,95.3,Router pierde configuración tras corte de luz.
+T000233,2025-10-30T23:58:52,C00139,velocidad_baja,resuelto,baja,19.7,Velocidad muy baja en horario de tarde.
+T000234,2025-10-14T04:05:58,C00340,velocidad_baja,resuelto,critica,6.9,Velocidad muy baja en horario de tarde.
+T000235,2025-10-19T18:19:55,C00119,instalacion,cerrado,baja,83.3,Técnico no acudió a la cita programada.
+T000236,2025-10-29T23:40:45,C00273,consulta_tarifa,resuelto,media,86.8,Solicita información sobre paquete convergente.
+T000237,2025-10-28T05:14:53,C00475,sin_servicio,en_proceso,media,,"Router sin luz verde, cliente sin servicio."
+T000238,2025-10-17T04:38:12,C00251,velocidad_baja,abierto,alta,,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000239,2025-10-31T08:26:48,C00155,consulta_tarifa,cerrado,baja,65.9,Solicita información sobre paquete convergente.
+T000240,2025-10-31T09:06:03,C00132,facturacion,escalado,critica,26.8,Cargo no reconocido en la última factura.
+T000241,2025-10-14T14:26:58,C00116,consulta_tarifa,cerrado,alta,3.3,Consulta sobre promociones vigentes.
+T000242,2025-10-19T13:18:12,C00267,intermitencias,resuelto,baja,13.6,"Conexión inestable, especialmente por la noche."
+T000243,2025-10-30T09:18:21,C00169,facturacion,resuelto,media,41.2,Cliente reclama subida de cuota sin aviso.
+T000244,2025-10-10T19:42:30,C00442,portabilidad,resuelto,baja,13.7,Confirmación de portabilidad recibida.
+T000245,2025-10-21T21:03:40,C00466,intermitencias,resuelto,media,50.5,Cortes intermitentes cada pocos minutos.
+T000246,2025-10-28T01:20:54,C00273,intermitencias,resuelto,media,15.6,Cortes intermitentes cada pocos minutos.
+T000247,2025-10-02T10:21:02,C00392,sin_servicio,en_proceso,alta,,Sin conexión desde anoche.
+T000248,2025-10-31T21:58:51,C00478,instalacion,cerrado,media,39.8,Instalación pendiente desde hace 10 días.
+T000249,2025-10-09T23:14:42,C00014,averia_router,en_proceso,baja,,Router no enciende.
+T000250,2025-10-02T06:23:26,C00184,averia_router,resuelto,media,57.5,Router no enciende.
+T000251,2025-10-23T18:08:56,C00365,sin_servicio,resuelto,media,48.5,"Sin servicio en toda la zona, varios avisos."
+T000252,2025-10-07T16:12:50,C00084,instalacion,en_proceso,baja,,Instalación pendiente desde hace 10 días.
+T000253,2025-10-21T01:13:52,C00114,facturacion,resuelto,media,93.0,Cliente reclama subida de cuota sin aviso.
+T000254,2025-10-30T22:55:34,C00251,facturacion,cerrado,baja,89.0,Cliente reclama subida de cuota sin aviso.
+T000255,2025-10-30T12:17:23,C00377,instalacion,cerrado,alta,41.3,Solicita cita para nueva instalación.
+T000256,2025-10-29T19:50:02,C00275,consulta_tarifa,cerrado,baja,90.2,Consulta sobre promociones vigentes.
+T000257,2025-10-12T22:17:11,C00266,velocidad_baja,resuelto,media,79.5,Cliente reporta velocidad inferior a la contratada.
+T000258,2025-10-03T09:26:00,C00098,consulta_tarifa,escalado,baja,37.5,Consulta sobre promociones vigentes.
+T000259,2025-10-23T09:30:30,C00086,averia_router,resuelto,alta,74.4,"Router emite olor a quemado, requiere sustitución."
+T000260,2025-10-23T12:06:31,C00425,consulta_tarifa,resuelto,alta,66.4,Cliente pregunta por tarifas de fibra 1000.
+T000261,2025-10-29T10:05:45,C00481,portabilidad,en_proceso,media,,Solicita portabilidad desde otro operador.
+T000262,2025-10-29T15:46:02,C00460,intermitencias,resuelto,baja,2.9,Wifi se cae varias veces al día.
+T000263,2025-10-08T23:04:00,C00368,facturacion,cerrado,baja,31.4,Duplicidad en cobro de cuota mensual.
+T000264,2025-10-18T14:51:34,C00044,sin_servicio,en_proceso,media,,"Sin servicio en toda la zona, varios avisos."
+T000265,2025-10-19T09:11:33,C00282,consulta_tarifa,cerrado,critica,59.0,Cliente pregunta por tarifas de fibra 1000.
+T000266,2025-10-28T10:50:43,C00447,consulta_tarifa,abierto,baja,,Solicita información sobre paquete convergente.
+T000267,2025-10-03T11:46:51,C00215,intermitencias,en_proceso,baja,,"Conexión inestable, especialmente por la noche."
+T000268,2025-10-09T18:31:34,C00061,averia_router,resuelto,alta,43.1,Router pierde configuración tras corte de luz.
+T000269,2025-10-23T06:21:26,C00255,intermitencias,escalado,baja,73.6,Cortes intermitentes cada pocos minutos.
+T000270,2025-10-11T12:40:34,C00302,portabilidad,resuelto,baja,84.8,Solicita portabilidad desde otro operador.
+T000271,2025-10-12T21:06:41,C00452,portabilidad,resuelto,media,57.9,Solicita portabilidad desde otro operador.
+T000272,2025-10-09T23:21:15,C00076,averia_router,resuelto,media,79.3,Router no enciende.
+T000273,2025-10-29T01:31:36,C00430,velocidad_baja,resuelto,baja,82.0,Velocidad muy baja en horario de tarde.
+T000274,2025-10-08T19:58:08,C00345,averia_router,resuelto,baja,10.9,Router no enciende.
+T000275,2025-10-09T14:42:30,C00495,averia_router,resuelto,media,57.3,Router pierde configuración tras corte de luz.
+T000276,2025-10-16T16:06:52,C00189,portabilidad,cerrado,baja,3.9,"Portabilidad bloqueada, requiere intervención."
+T000277,2025-10-15T05:10:29,C00242,consulta_tarifa,cerrado,alta,81.0,Cliente pregunta por tarifas de fibra 1000.
+T000278,2025-10-26T14:03:39,C00212,intermitencias,en_proceso,alta,,Wifi se cae varias veces al día.
+T000279,2025-10-31T12:48:47,C00271,facturacion,resuelto,media,10.9,Duplicidad en cobro de cuota mensual.
+T000280,2025-10-14T22:35:50,C00219,sin_servicio,resuelto,media,89.7,"Sin servicio en toda la zona, varios avisos."
+T000281,2025-10-30T19:41:58,C00289,instalacion,resuelto,media,60.0,Solicita cita para nueva instalación.
+T000282,2025-10-30T14:00:33,C00120,portabilidad,resuelto,media,47.5,Solicita portabilidad desde otro operador.
+T000283,2025-10-06T17:23:36,C00378,averia_router,escalado,baja,2.8,Router pierde configuración tras corte de luz.
+T000284,2025-10-17T23:22:18,C00287,facturacion,cerrado,critica,40.0,Cliente reclama subida de cuota sin aviso.
+T000285,2025-10-13T08:25:04,C00405,facturacion,abierto,baja,,Cliente reclama subida de cuota sin aviso.
+T000286,2025-10-06T12:37:45,C00352,sin_servicio,resuelto,media,31.4,Sin conexión desde anoche.
+T000287,2025-10-09T12:37:21,C00100,instalacion,resuelto,media,59.3,Solicita cita para nueva instalación.
+T000288,2025-10-02T17:25:42,C00331,instalacion,cerrado,alta,46.3,Instalación pendiente desde hace 10 días.
+T000289,2025-10-17T06:25:51,C00237,intermitencias,resuelto,media,85.7,"Conexión inestable, especialmente por la noche."
+T000290,2025-10-16T07:35:14,C00285,consulta_tarifa,cerrado,baja,50.3,Consulta sobre promociones vigentes.
+T000291,2025-10-04T05:08:37,C00497,velocidad_baja,resuelto,media,76.9,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000292,2025-10-26T22:28:24,C00432,intermitencias,resuelto,baja,94.4,"Conexión inestable, especialmente por la noche."
+T000293,2025-10-16T06:25:06,C00364,intermitencias,resuelto,baja,57.3,Wifi se cae varias veces al día.
+T000294,2025-10-22T22:30:32,C00425,velocidad_baja,resuelto,baja,84.3,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000295,2025-10-10T19:27:42,C00468,averia_router,resuelto,baja,11.2,Router no enciende.
+T000296,2025-10-08T11:30:49,C00098,sin_servicio,resuelto,baja,46.6,"Sin servicio en toda la zona, varios avisos."
+T000297,2025-10-07T22:57:02,C00394,instalacion,cerrado,media,50.5,Instalación pendiente desde hace 10 días.
+T000298,2025-10-10T23:03:37,C00371,sin_servicio,cerrado,critica,65.1,Sin conexión desde anoche.
+T000299,2025-10-16T02:19:10,C00478,velocidad_baja,resuelto,media,50.4,Cliente reporta velocidad inferior a la contratada.
+T000300,2025-10-03T05:45:24,C00053,velocidad_baja,resuelto,media,8.8,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000301,2025-10-11T04:29:16,C00165,averia_router,abierto,alta,,Router pierde configuración tras corte de luz.
+T000302,2025-10-22T09:56:13,C00344,facturacion,en_proceso,baja,,Cliente reclama subida de cuota sin aviso.
+T000303,2025-10-28T04:00:40,C00264,sin_servicio,resuelto,baja,11.4,"Sin servicio en toda la zona, varios avisos."
+T000304,2025-10-14T18:01:50,C00294,sin_servicio,resuelto,baja,30.9,Sin conexión desde anoche.
+T000305,2025-10-27T05:49:04,C00228,facturacion,en_proceso,baja,,Cliente reclama subida de cuota sin aviso.
+T000306,2025-10-03T10:47:07,C00055,velocidad_baja,en_proceso,media,,Velocidad muy baja en horario de tarde.
+T000307,2025-10-29T22:31:54,C00457,consulta_tarifa,abierto,media,,Cliente pregunta por tarifas de fibra 1000.
+T000308,2025-10-26T21:33:17,C00041,portabilidad,resuelto,baja,78.6,Confirmación de portabilidad recibida.
+T000309,2025-10-23T17:34:51,C00050,portabilidad,resuelto,baja,77.1,Confirmación de portabilidad recibida.
+T000310,2025-10-12T05:56:35,C00486,portabilidad,resuelto,media,73.7,"Portabilidad bloqueada, requiere intervención."
+T000311,2025-10-18T15:26:57,C00201,facturacion,en_proceso,alta,,Cliente reclama subida de cuota sin aviso.
+T000312,2025-10-23T00:06:46,C00250,intermitencias,resuelto,media,75.8,Wifi se cae varias veces al día.
+T000313,2025-10-23T09:23:07,C00434,velocidad_baja,abierto,baja,,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000314,2025-10-05T23:55:28,C00208,intermitencias,resuelto,baja,55.4,"Conexión inestable, especialmente por la noche."
+T000315,2025-10-23T09:04:28,C00206,sin_servicio,resuelto,media,76.2,"Sin servicio en toda la zona, varios avisos."
+T000316,2025-10-19T15:10:42,C00034,consulta_tarifa,resuelto,baja,15.7,Solicita información sobre paquete convergente.
+T000317,2025-10-28T12:50:56,C00404,instalacion,resuelto,media,41.7,Instalación pendiente desde hace 10 días.
+T000318,2025-10-28T20:58:40,C00429,instalacion,resuelto,baja,63.8,Solicita cita para nueva instalación.
+T000319,2025-10-27T22:43:26,C00050,portabilidad,en_proceso,media,,"Portabilidad bloqueada, requiere intervención."
+T000320,2025-10-30T01:01:20,C00056,portabilidad,en_proceso,critica,,Solicita portabilidad desde otro operador.
+T000321,2025-10-07T17:50:59,C00455,consulta_tarifa,resuelto,media,6.4,Cliente pregunta por tarifas de fibra 1000.
+T000322,2025-10-19T22:21:45,C00316,velocidad_baja,cerrado,media,43.8,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000323,2025-10-15T13:13:01,C00292,portabilidad,en_proceso,media,,"Portabilidad bloqueada, requiere intervención."
+T000324,2025-10-05T08:01:38,C00299,averia_router,cerrado,critica,69.0,"Router emite olor a quemado, requiere sustitución."
+T000325,2025-10-04T00:42:48,C00190,velocidad_baja,resuelto,media,81.4,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000326,2025-10-06T07:48:28,C00441,velocidad_baja,abierto,media,,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000327,2025-10-31T08:25:38,C00163,averia_router,cerrado,baja,67.6,"Router emite olor a quemado, requiere sustitución."
+T000328,2025-10-24T01:15:55,C00072,consulta_tarifa,resuelto,media,20.7,Cliente pregunta por tarifas de fibra 1000.
+T000329,2025-10-08T11:44:03,C00148,facturacion,resuelto,alta,34.9,Cliente reclama subida de cuota sin aviso.
+T000330,2025-10-07T23:46:02,C00370,intermitencias,en_proceso,baja,,Cortes intermitentes cada pocos minutos.
+T000331,2025-10-21T04:30:24,C00441,portabilidad,resuelto,critica,13.5,Solicita portabilidad desde otro operador.
+T000332,2025-10-09T17:28:44,C00233,portabilidad,cerrado,media,89.3,Confirmación de portabilidad recibida.
+T000333,2025-10-21T14:53:42,C00310,consulta_tarifa,resuelto,media,34.4,Cliente pregunta por tarifas de fibra 1000.
+T000334,2025-10-14T01:41:58,C00211,velocidad_baja,resuelto,alta,23.1,Velocidad muy baja en horario de tarde.
+T000335,2025-10-18T21:25:30,C00058,instalacion,abierto,baja,,Instalación pendiente desde hace 10 días.
+T000336,2025-10-14T13:32:53,C00239,portabilidad,escalado,baja,70.2,Confirmación de portabilidad recibida.
+T000337,2025-10-04T18:58:19,C00351,sin_servicio,resuelto,media,23.9,"Sin servicio en toda la zona, varios avisos."
+T000338,2025-10-23T18:16:18,C00233,averia_router,resuelto,alta,51.6,Router no enciende.
+T000339,2025-10-15T00:57:08,C00086,portabilidad,resuelto,baja,34.2,"Portabilidad bloqueada, requiere intervención."
+T000340,2025-10-13T15:26:17,C00032,velocidad_baja,resuelto,media,29.5,Velocidad muy baja en horario de tarde.
+T000341,2025-10-31T07:22:55,C00014,portabilidad,resuelto,media,63.2,"Portabilidad bloqueada, requiere intervención."
+T000342,2025-10-13T05:39:38,C00068,averia_router,resuelto,baja,7.8,"Router emite olor a quemado, requiere sustitución."
+T000343,2025-10-09T11:26:23,C00466,averia_router,resuelto,baja,71.3,Router pierde configuración tras corte de luz.
+T000344,2025-10-12T11:11:17,C00249,intermitencias,resuelto,baja,17.3,"Conexión inestable, especialmente por la noche."
+T000345,2025-10-08T01:01:08,C00305,intermitencias,cerrado,alta,33.2,Cortes intermitentes cada pocos minutos.
+T000346,2025-10-12T13:13:43,C00339,intermitencias,cerrado,alta,39.9,Wifi se cae varias veces al día.
+T000347,2025-10-03T15:17:38,C00329,portabilidad,cerrado,baja,55.7,"Portabilidad bloqueada, requiere intervención."
+T000348,2025-10-24T02:51:01,C00155,averia_router,cerrado,baja,16.5,"Router emite olor a quemado, requiere sustitución."
+T000349,2025-10-19T22:27:54,C00243,portabilidad,cerrado,alta,51.4,"Portabilidad bloqueada, requiere intervención."
+T000350,2025-10-15T00:28:02,C00475,averia_router,en_proceso,alta,,Router no enciende.
+T000351,2025-10-05T17:26:15,C00470,portabilidad,resuelto,baja,51.1,Solicita portabilidad desde otro operador.
+T000352,2025-10-17T06:15:55,C00139,instalacion,escalado,media,88.2,Instalación pendiente desde hace 10 días.
+T000353,2025-10-12T17:42:49,C00376,averia_router,cerrado,baja,56.3,"Router emite olor a quemado, requiere sustitución."
+T000354,2025-10-27T14:00:53,C00006,facturacion,resuelto,media,95.4,Cliente reclama subida de cuota sin aviso.
+T000355,2025-10-22T15:33:37,C00180,velocidad_baja,cerrado,baja,9.8,Cliente reporta velocidad inferior a la contratada.
+T000356,2025-10-05T11:07:09,C00030,facturacion,cerrado,baja,3.8,Duplicidad en cobro de cuota mensual.
+T000357,2025-10-05T04:38:50,C00439,facturacion,escalado,media,68.1,Cargo no reconocido en la última factura.
+T000358,2025-10-06T09:08:37,C00357,intermitencias,resuelto,alta,62.4,Cortes intermitentes cada pocos minutos.
+T000359,2025-10-23T00:18:00,C00473,intermitencias,resuelto,media,89.9,"Conexión inestable, especialmente por la noche."
+T000360,2025-10-13T11:49:07,C00083,averia_router,cerrado,media,64.3,"Router emite olor a quemado, requiere sustitución."
+T000361,2025-10-13T12:52:11,C00490,sin_servicio,resuelto,baja,37.6,Sin conexión desde anoche.
+T000362,2025-10-30T15:03:11,C00202,averia_router,en_proceso,baja,,Router no enciende.
+T000363,2025-10-11T14:26:19,C00315,intermitencias,resuelto,baja,52.1,Wifi se cae varias veces al día.
+T000364,2025-10-04T10:02:10,C00293,sin_servicio,cerrado,media,10.4,Sin conexión desde anoche.
+T000365,2025-10-01T01:00:39,C00478,averia_router,cerrado,baja,48.0,Router pierde configuración tras corte de luz.
+T000366,2025-10-28T21:30:15,C00002,velocidad_baja,resuelto,baja,67.4,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000367,2025-10-27T05:17:44,C00116,portabilidad,resuelto,media,70.0,Solicita portabilidad desde otro operador.
+T000368,2025-10-28T12:53:13,C00275,velocidad_baja,resuelto,media,75.0,Cliente reporta velocidad inferior a la contratada.
+T000369,2025-10-05T09:38:04,C00188,instalacion,resuelto,baja,5.8,Técnico no acudió a la cita programada.
+T000370,2025-10-10T20:39:09,C00091,instalacion,en_proceso,media,,Instalación pendiente desde hace 10 días.
+T000371,2025-10-06T04:23:37,C00323,velocidad_baja,escalado,media,29.0,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000372,2025-10-07T19:02:43,C00019,instalacion,resuelto,alta,42.3,Solicita cita para nueva instalación.
+T000373,2025-10-24T17:59:50,C00200,facturacion,abierto,critica,,Cargo no reconocido en la última factura.
+T000374,2025-10-01T19:07:43,C00019,sin_servicio,cerrado,media,48.2,"Router sin luz verde, cliente sin servicio."
+T000375,2025-10-20T16:27:03,C00061,instalacion,abierto,alta,,Solicita cita para nueva instalación.
+T000376,2025-10-27T01:08:21,C00077,facturacion,cerrado,media,44.3,Duplicidad en cobro de cuota mensual.
+T000377,2025-10-01T22:12:36,C00242,facturacion,cerrado,baja,14.0,Duplicidad en cobro de cuota mensual.
+T000378,2025-10-03T10:12:19,C00464,velocidad_baja,resuelto,media,1.9,Velocidad muy baja en horario de tarde.
+T000379,2025-10-04T02:30:57,C00419,averia_router,cerrado,baja,58.9,Router pierde configuración tras corte de luz.
+T000380,2025-10-11T16:59:08,C00033,sin_servicio,en_proceso,media,,"Sin servicio en toda la zona, varios avisos."
+T000381,2025-10-20T12:22:26,C00167,facturacion,resuelto,alta,94.3,Duplicidad en cobro de cuota mensual.
+T000382,2025-10-03T05:06:43,C00304,sin_servicio,escalado,media,13.6,Sin conexión desde anoche.
+T000383,2025-10-09T03:47:36,C00357,intermitencias,resuelto,baja,14.0,Wifi se cae varias veces al día.
+T000384,2025-10-07T11:23:18,C00052,instalacion,resuelto,media,88.9,Solicita cita para nueva instalación.
+T000385,2025-10-01T08:24:59,C00092,consulta_tarifa,cerrado,baja,47.0,Cliente pregunta por tarifas de fibra 1000.
+T000386,2025-10-24T02:35:41,C00355,sin_servicio,cerrado,media,27.6,"Sin servicio en toda la zona, varios avisos."
+T000387,2025-10-12T14:45:02,C00481,intermitencias,resuelto,media,50.5,Wifi se cae varias veces al día.
+T000388,2025-10-30T17:05:22,C00487,intermitencias,resuelto,baja,17.7,Wifi se cae varias veces al día.
+T000389,2025-10-28T01:46:46,C00121,sin_servicio,resuelto,alta,33.7,Sin conexión desde anoche.
+T000390,2025-10-31T01:05:42,C00186,facturacion,en_proceso,media,,Cargo no reconocido en la última factura.
+T000391,2025-10-10T09:41:56,C00058,facturacion,resuelto,media,20.4,Cargo no reconocido en la última factura.
+T000392,2025-10-08T18:08:00,C00344,intermitencias,resuelto,critica,45.8,Cortes intermitentes cada pocos minutos.
+T000393,2025-10-22T02:25:45,C00129,velocidad_baja,abierto,baja,,Cliente reporta velocidad inferior a la contratada.
+T000394,2025-10-03T13:06:58,C00474,instalacion,resuelto,alta,43.8,Solicita cita para nueva instalación.
+T000395,2025-10-06T15:13:32,C00037,intermitencias,en_proceso,baja,,"Conexión inestable, especialmente por la noche."
+T000396,2025-10-16T19:27:01,C00118,facturacion,cerrado,media,31.6,Cargo no reconocido en la última factura.
+T000397,2025-10-19T05:31:36,C00457,sin_servicio,resuelto,baja,71.0,Sin conexión desde anoche.
+T000398,2025-10-22T03:49:10,C00075,facturacion,abierto,media,,Cargo no reconocido en la última factura.
+T000399,2025-10-23T05:18:21,C00369,facturacion,cerrado,media,37.5,Cargo no reconocido en la última factura.
+T000400,2025-10-02T13:23:34,C00355,facturacion,resuelto,critica,19.8,Cargo no reconocido en la última factura.
+T000401,2025-10-09T07:27:50,C00390,velocidad_baja,resuelto,baja,45.0,Tests de velocidad muestran 50 Mbps de los 600 contratados.
+T000402,2025-10-30T16:28:54,C00464,instalacion,resuelto,baja,15.5,Técnico no acudió a la cita programada.
+T000403,2025-10-26T07:54:16,C00251,intermitencias,resuelto,media,22.4,Wifi se cae varias veces al día.
+T000404,2025-10-21T18:47:05,C00377,facturacion,resuelto,alta,27.2,Duplicidad en cobro de cuota mensual.
+T000405,2025-10-08T05:33:44,C00468,facturacion,resuelto,media,21.7,Duplicidad en cobro de cuota mensual.
+T000406,2025-10-25T11:27:16,C00018,velocidad_baja,resuelto,baja,95.2,Velocidad muy baja en horario de tarde.
+T000407,2025-10-22T23:07:56,C00254,consulta_tarifa,resuelto,media,76.7,Cliente pregunta por tarifas de fibra 1000.
+T000408,2025-10-20T17:44:39,C00487,facturacion,en_proceso,alta,,Duplicidad en cobro de cuota mensual.
+T000409,2025-10-05T09:42:27,C00009,facturacion,en_proceso,baja,,Duplicidad en cobro de cuota mensual.
+T000410,2025-10-29T08:00:47,C00013,portabilidad,resuelto,baja,44.4,Confirmación de portabilidad recibida.
+T000411,2025-10-18T23:34:16,C00321,portabilidad,resuelto,baja,67.6,Solicita portabilidad desde otro operador.
+T000412,2025-10-17T03:51:49,C00272,portabilidad,cerrado,baja,60.4,"Portabilidad bloqueada, requiere intervención."
+T000413,2025-10-27T07:58:57,C00295,velocidad_baja,resuelto,alta,67.2,Velocidad muy baja en horario de tarde.
+T000414,2025-10-03T15:51:36,C00264,facturacion,cerrado,baja,84.6,Duplicidad en cobro de cuota mensual.
+T000415,2025-10-02T23:37:19,C00188,instalacion,cerrado,baja,35.4,Técnico no acudió a la cita programada.
+T000416,2025-10-28T05:19:50,C00364,instalacion,en_proceso,media,,Solicita cita para nueva instalación.
+T000417,2025-10-06T12:18:15,C00333,facturacion,en_proceso,baja,,Duplicidad en cobro de cuota mensual.
+T000418,2025-10-11T04:25:39,C00386,portabilidad,cerrado,alta,83.7,Confirmación de portabilidad recibida.
+T000419,2025-10-14T10:53:51,C00028,facturacion,resuelto,alta,48.6,Cliente reclama subida de cuota sin aviso.
+T000420,2025-10-23T19:46:50,C00364,sin_servicio,resuelto,media,48.4,Sin conexión desde anoche.
