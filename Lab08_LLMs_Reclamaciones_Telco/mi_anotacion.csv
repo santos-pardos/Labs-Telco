@@ -1,0 +1,11 @@
+ticket_id,tema_humano,urgencia_humana,sentimiento_humano
+TCK-0001,averia,alta,negativo
+TCK-0002,averia,critica,negativo
+TCK-0003,portabilidad,alta,negativo
+TCK-0004,facturacion,media,negativo
+TCK-0005,consulta,baja,neutral
+TCK-0006,averia,baja,negativo
+TCK-0007,consulta,baja,neutral
+TCK-0008,consulta,baja,neutral
+TCK-0009,consulta,baja,neutral
+TCK-0010,consulta,baja,neutral
