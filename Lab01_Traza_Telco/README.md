@@ -1,4 +1,4 @@
-## Code
+## SQL Code
 
 ```
 CREATE EXTERNAL TABLE IF NOT EXISTS network_events (
