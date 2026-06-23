@@ -1,4 +1,46 @@
-## SQL Code
+# Lab 1 · Traza digital de una telco: eventos de red, clientes e incidencias
+
+Primera práctica de la asignatura (Tema 1). El objetivo no es entrenar modelos, sino aprender a
+**reconocer, capturar y consultar** las distintas trazas digitales que produce un sistema complejo real
+—una operadora de telecomunicaciones— y a interpretar lo que dicen y lo que **no** dicen.
+
+**Entorno:** AWS Academy Learner Lab · **Servicios:** Amazon S3 · AWS Glue Data Catalog · Amazon Athena
+**Duración:** 120-150 min · **Nivel:** inicial
+
+## Contenido de la carpeta
+- `Lab_01_Traza_Telco_AWS_Academy.pdf`  ← enunciado completo del laboratorio.
+- `README.md`  ← este fichero (incluye al final el **SQL de apoyo**: DDL y consultas).
+- Seis trazas crudas del caso telco (CSV):
+  - `network_events.csv`  (350 filas) — eventos de red (logs): tipo, severidad, duración, clientes afectados.
+  - `customers.csv`  (500 filas) — datos maestros de cliente: región, contrato, precio, antigüedad, activo.
+  - `tickets.csv`  (420 filas) — tickets técnicos: categoría, estado, prioridad, descripción.
+  - `call_center_contacts.csv`  (600 filas) — contactos con el call center: canal, motivo, duración, resuelto.
+  - `network_metrics.csv`  (1008 filas) — métricas de calidad por región y hora: download, latencia, pérdida.
+  - `complaints.csv`  (120 filas) — reclamaciones en **texto libre** con etiqueta de sentimiento.
+
+## Cómo realizar el laboratorio
+1. **Start Lab** en AWS Academy (círculo verde) y abre la consola en la región **us-east-1**.
+2. **Amazon S3:** crea un bucket y sube cada CSV a su propia carpeta, p. ej. `s3://<tu-bucket>/raw/network_events/`,
+   `s3://<tu-bucket>/raw/customers/`, etc. (un prefijo por dataset).
+3. **Amazon Athena:** crea la base de datos `unir_telco_lab1` y registra las seis tablas externas con los
+   `CREATE EXTERNAL TABLE` del SQL de apoyo (más abajo). El DDL es **manual a propósito**: te obliga a leer
+   el esquema columna a columna y a entender el modelo de evento de cada traza.
+4. Ejecuta las **consultas de exploración** (recuentos, agregaciones, cruces entre tablas) para caracterizar
+   cada traza: marca de tiempo, actor, acción y contexto; granularidad y cobertura.
+5. Redacta el **entregable**: un diagnóstico inicial del observatorio de la operadora, con al menos tres
+   limitaciones estructurales de la traza y cómo mitigarlas.
+
+## Notas
+- **Por qué DDL manual y no un crawler de Glue:** en este lab es deliberado, para forzar la lectura atenta
+  del esquema. Los **crawlers** se introducen en el **Lab 2**, al recatalogar la capa curada.
+- Los datos son **sintéticos** pero realistas y coherentes con todo el caso TELCO de la serie.
+- Al terminar, ejecuta los `DROP TABLE`/`DROP DATABASE` del SQL de apoyo, vacía el bucket si no continúas y
+  pulsa **End Lab**.
+
+---
+
+## Código SQL de apoyo (DDL y consultas)
+
 
 ```
 CREATE EXTERNAL TABLE IF NOT EXISTS network_events (
