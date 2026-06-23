@@ -1,0 +1,521 @@
+customer_id,region,contract_type,monthly_price,tenure_months,signup_date,active
+C00310,Madrid,fibra_300,29.95,43,2022-04-13,1
+C00456,Madrid,fibra_600,41.95,4,2025-07-04,1
+C00249,Valencia,movilsolo,16.95,20,2024-02-13,0
+C00246,Valencia,fibra_300,31.95,38,2022-09-12,1
+C00481,Bilbao,fibra_600,39.95,39,2026-03-29,1
+C00037,Madrid,fibra_600,-39.95,82,2019-01-26,1
+C00154,Bilbao,fibra_1000,54.95,35,2022-11-27,1
+C00122,Sevilla,convergente,64.95,7,2025-03-21,1
+C00296,Madrid,movil_solo,,52,2021-07-18,1
+C00410,Bilbao,fibra_1000,47.95,5,2025-05-17,1
+C00200, Madrid ,movil_solo,16.95,70,2020-01-27,1
+C00007,Sevilla,fibra_1000,51.95,45,2022-02-20,1
+C00452,Madrid,convergente,57.95,81,2019-02-14,1
+C00332,Bilbao,Fibra_1000,47.95,9,2026-03-08,0
+C00319,BILBAO,movil_solo,12.95,58,2026-03-11,
+C00313,Sevilla,fibra1000,49.95,83,2018-12-10,1
+C00420,Bilbao ,Convergente,59.95,35,2022-11-22,1
+C00489, Madrid ,fibra_1000,51.95,80,2019-03-13,1
+C00159,Madrid,convergente,59.95,20,2024-02-27,1
+C00389,Madrid,movil_solo,19.95,69,2020-02-11,1
+C00485,sevilla,convergente,59.95,26,2023-09-04,1
+C00172,Sevilla,fibra_1000,51.95,78,2019-05-29,1
+C00097,Madrid,fibra600,39.95,63,2020-08-26,1
+C00162,Sevilla,movil_solo,16.95,39,2022-08-14,1
+C00065,zaragoza,convergente,57.95,38,2022-09-09,1
+C00483,Madrid,convergente,57.95,76,2019-07-19,1
+C00126,Madrid,movil_solo,14.95,40,2022-06-27,1
+C00335,Barcelona,fibra_1000,47.95,61,2020-10-25,0
+C00013,Zaragoza,fibra_300,34.95,3,2025-07-28,1
+C00321,Valencia,fibra_300,29.95,5,2025-05-22,1
+C00148,Sevilla,Convergente,57.95,68,2026-04-29,1
+C00278,Valencia,convergente,59.95,34,2023-01-09,1
+C00432,Zaragoza,movil_solo,-11.95,29,2023-05-19,0
+C00299,Sevilla,fibra_600,44.95,27,2023-08-14,1
+C00427,Bilbao,convergente,64.95,73,2019-10-14,1
+C00046,Bilbao,convergente,59.95,11,2024-12-05,1
+C00237,Madrid,convergente,59.95,1,2025-09-14,1
+C00285,Bilbao,fibra_1000,51.95,48,2021-11-20,1
+C00009,Barcelona ,FIBRA_600,,20,2024-03-04,1
+C00253,VALENCIA,fibra_600,44.95,77,2019-07-03,1
+C00413,Valencia,movil_solo,-12.95,40,2022-07-06,1
+C00008,Sevilla,fibra_600,39.95,58,2021-01-14,1
+C00402,bilbao,fibra_600,41.95,56,2021-03-06,1
+C00276,Madrid,fibra_300,34.95,58,2021-01-10,1
+C00250,Valencia,fibra_1000,54.95,28,2023-07-11,1
+C00475,Barcelona,movil_solo,12.95,60,2020-11-14,1
+C00182,madrid,CONVERGENTE,64.95,7,2025-03-29,1
+C00254,VALENCIA,fibra_600,-44.95,59,2020-12-24,1
+C00158,Valencia,movil_solo,14.95,37,2022-09-20,1
+C00439,Barcelona,fibra_300,31.95,50,2021-08-30,1
+C00471,Barcelona,movil_solo,14.95,57,2021-02-16,1
+C00478, Barcelona ,fibra_600,39.95,,2022-07-25,1
+C00359,Zaragoza,fibra_300,29.95,55,2021-03-28,1
+C00326,Bilbao,movil_solo,14.95,33,2023-01-26,1
+C00370,Sevilla,fibra_600,39.95,22,2024-01-06,1
+C00055,Valencia,fibra_300,0,48,2021-11-15,
+C00054, Zaragoza ,fibra_300,-31.95,68,2020-03-25,1
+C00365,Sevilla ,movil_solo,16.95,36,2022-11-06,1
+C00366,Valencia,fibra_600,39.95,50,2021-09-21,1
+C00103,Sevilla,MOVIL_SOLO,12.95,2,2025-08-21,1
+C00086,Bilbao,movil_solo,19.95,67,2026-04-05,1
+C00029,Bilbao,movil_solo,14.95,80,2019-04-03,0
+C00377,Bilbao,movil_solo,19.95,,2018-12-14,1
+C00426,Madrid ,fibra_1000,0,45,2022-01-31,1
+C00107,Bilbao,fibra_300,31.95,66,2020-05-31,1
+C00042,Barcelona,convergente,59.95,47,2021-12-18,1
+C00387,Valencia,convergente,64.95,24,2023-11-12,1
+C00349,Valencia,fibra_300,34.95,84,2018-11-09,0
+C00273,Bilbao,fibra_600,41.95,71,2019-12-20,1
+C00430,Valencia,convergente,59.95,74,2019-09-29,1
+C00277,Madrid,fibra_1000,51.95,,2021-11-30,1
+C00006,Valencia,convergente,61.95,75,2019-08-10,1
+C00461,Valencia,fibra_1000,54.95,31,2023-03-18,1
+C00004,Valencia,movil_solo,19.95,59,2020-12-16,1
+C00411,Barcelona,fibra_600,39.95,52,2021-07-18,1
+C00048, Barcelona ,convergente,61.95,71,2019-12-26,1
+C00393,Sevilla,fibra300,29.95,23,2023-12-03,1
+C00125,Valencia,convergente,,,2020-12-06,1
+C00292,Madrid,movil_solo,12.95,27,2023-07-17,1
+C00346,zaragoza,movil_solo,12.95,1,2025-09-05,1
+C00332,Bilbao,Fibra_1000,47.95,9,2026-03-08,0
+C00428,BARCELONA,fibra_600,39.95,53,2021-06-20,1
+C00355,Zaragoza,fibra300,31.95,70,2020-01-08,1
+C00100, Zaragoza ,convergente,57.95,45,2022-02-02,
+C00119,Valencia,fibra_1000,49.95,76,2019-07-16,
+C00084,Valencia,fibra_600,44.95,46,2022-01-04,1
+C00234,Bilbao,fibra300,34.95,22,2023-12-16,1
+C00325,Valencia,convergente,64.95,15,2024-07-25,1
+C00198,Zaragoza,fibra_600,39.95,33,2023-01-26,1
+C00459,Madrid,movil_solo,12.95,52,2021-07-04,1
+C00468,barcelona,FIBRA_600,37.95,26,2023-08-20,
+C00424,Barcelona,movil_solo,14.95,60,2020-11-11,1
+C00401,Zaragoza,convergente,64.95,26,2023-09-04,1
+C00445,Sevilla,fibra_1000,54.95,27,2023-08-10,1
+C00298,Madrid,fibra_600,37.95,72,2019-11-13,1
+C00017,Sevilla,fibra_300,31.95,23,2023-11-29,1
+C00338,Zaragoza ,fibra_1000,51.95,41,2022-06-04,1
+C00160,Sevilla,fibra_1000,49.95,53,2021-05-29,1
+C00195,Sevilla,fibra_600,44.95,42,2022-05-05,yes
+C00444,Valencia,fibra_600,39.95,66,2020-05-05,1
+C00339,Madrid,fibra_300,29.95,16,2024-06-14,1
+C00432,Zaragoza,movil_solo,-12.95,29,2023-05-19,0
+C00072,madrid,Convergente,64.95,48,2021-10-30,1
+C00490,Madrid,fibra_300,34.95,31,2023-04-12,1
+C00247,Zaragoza,fibra_600,,18,2024-04-13,1
+C00479,Zaragoza,fibra_600,41.95,20,2024-02-11,1
+C00265,Zaragoza,fibra_600,41.95,51,2021-07-30,1
+C00101,Zaragoza,fibra_300,34.95,25,2023-10-05,1
+C00406,Madrid,fibra_1000,49.95,35,2022-11-19,1
+C00462,barcelona,convergente,,39,2022-07-30,1
+C00220,Bilbao,fibra_1000,49.95,23,2023-11-15,1
+C00356,Madrid,convergente,59.95,7,2025-03-07,0
+C00223,Barcelona,movil_solo,14.95,18,2024-04-14,1
+C00051,Sevilla,convergente,61.95,1,2025-09-30,1
+C00336,Madrid,fibra_300,34.95,28,2023-07-12,yes
+C00190,Madrid,movil_solo,14.95,38,2022-09-07,1
+C00098,Zaragoza,fibra_300,31.95,22,2024-01-08,1
+C00201,SEVILLA,fibra_1000,47.95,18,2024-04-27,1
+C00061,valencia,convergente,57.95,34,2022-12-24,1
+C00384,Valencia,fibra_300,31.95,16,2024-06-30,1
+C00383,Bilbao,Fibra_1000,49.95,44,2022-02-22,1
+C00021,Barcelona,fibra_300,31.95,80,2019-03-15,1
+C00020,Zaragoza,convergente,-64.95,54,2021-04-30,1
+C00385,Zaragoza,fibra_300,29.95,25,2023-09-24,1
+C00113,Barcelona,fibra_300,31.95,69,2020-02-26,1
+C00069, Valencia ,movil_solo,14.95,24,2023-10-24,1
+C00049,Bilbao,fibra_300,27.95,53,2021-06-13,1
+C00252,Sevilla,fibra_600,39.95,63,2020-08-21,1
+C00477,Zaragoza,convergente,-64.95,70,2020-01-19,1
+C00003,Bilbao,fibra_1000,54.95,24,2023-11-09,1
+C00058,Barcelona,fibra1000,49.95,24,2023-10-23,
+C00261,barcelona,fibra_300,-29.95,18,2024-05-04,1
+C00354,Barcelona,convergente,57.95,29,2023-06-04,1
+C00001,Valencia,fibra_300,31.95,84,2018-12-07,
+C00114,Barcelona,convergente,57.95,57,2021-02-04,
+C00246,Valencia,fibra_300,31.95,38,2022-09-12,1
+C00027,Madrid,fibra_300,29.95,17,2024-05-14,1
+C00412,Zaragoza,movil_solo,16.95,2,2025-09-01,1
+C00227,Barcelona,convergente,61.95,1,2025-09-27,1
+C00309,Sevilla,fibra_300,27.95,33,2023-02-06,1
+C00194,Valencia,FIBRA_600,,2,2025-08-12,1
+C00353,Valencia,fibra_600,44.95,5,2025-05-21,1
+C00108,Madrid,convergente,60.95,82,2019-02-05,1
+C00492,Valencia,fibra_300,0,43,2022-04-06,1
+C00206,Madrid ,Fibra_1000,49.95,68,2020-03-26,1
+C00073,Barcelona,Fibra_600,41.95,41,2022-06-19,1
+C00164,Bilbao,movil_solo,,60,2020-11-16,0
+C00149,Barcelona,fibra_1000,47.95,,2019-06-16,1
+C00011,Sevilla ,fibra_600,39.95,9,2025-01-29,1
+C00467,Bilbao,fibra1000,49.95,24,2023-11-02,1
+C00050,Zaragoza,fibra_300,27.95,,2022-11-19,1
+C00267,Sevilla,convergente,57.95,38,2022-09-08,1
+C00079,Bilbao,fibra_1000,49.95,42,2022-04-23,1
+C00019,BARCELONA,movil_solo,14.95,28,2023-07-15,1
+C00342,Valencia,MOVIL_SOLO,19.95,11,2024-12-02,1
+C00184,Bilbao,fibra_300,31.95,25,2023-10-12,1
+C00116,Madrid,fibra_300,29.95,82,2019-01-17,0
+C00093,Zaragoza,fibra_600,37.95,76,2019-07-12,1
+C00281,Zaragoza,fibra_300,29.95,29,2023-05-25,
+C00143,Barcelona,fibra_600,-39.95,19,2024-03-21,0
+C00208,Valencia,fibra_600,-44.95,34,2023-01-05,1
+C00280, Bilbao ,movil_solo,14.95,18,2024-05-04,1
+C00253,VALENCIA,fibra_600,44.95,77,2019-07-03,1
+C00217,Barcelona,fibra_300,34.95,12,2024-10-26,1
+C00399,Sevilla,movil_solo,14.95,1,2025-09-28,1
+C00186,Zaragoza,fibra_1000,49.95,19,2024-03-23,1
+C00081,Valencia,movil_solo,19.95,67,2020-04-13,1
+C00213,Madrid,movil_solo,14.95,,2023-12-04,1
+C00333, Barcelona ,fibra_300,31.95,43,2022-04-19,1
+C00197,Sevilla,fibra_600,39.95,75,2019-08-24,1
+C00151,Sevilla,MOVIL_SOLO,20.95,78,2019-05-21,0
+C00087,Barcelona,fibra_300,31.95,26,2023-08-28,1
+C00323,Madrid,fibra_300,29.95,55,2021-04-21,1
+C00334,Zaragoza ,fibra_1000,49.95,43,2022-04-11,1
+C00442,Valencia,fibra_600,44.95,13,2024-09-20,1
+C00214,Valencia,convergente,57.95,26,2023-09-06,1
+C00242,Madrid,MOVIL_SOLO,12.95,28,2023-06-27,1
+C00460, Madrid ,convergente,61.95,77,2019-06-28,1
+C00494,Sevilla,Movil_solo,14.95,44,2022-03-13,1
+C00380,BILBAO,fibra_1000,49.95,22,2024-01-06,1
+C00289,Valencia,fibra_600,37.95,23,2023-11-20,1
+C00032,Barcelona,fibra_300,31.95,45,2022-02-19,1
+C00329,Madrid,fibra600,44.95,18,2024-04-12,1
+C00352,Zaragoza,fibra_1000,54.95,14,2024-08-19,1
+C00381, Zaragoza ,movil_solo,20.95,80,2019-03-11,1
+C00015,barcelona,convergente,61.95,46,2021-12-29,0
+C00238,sevilla,fibra_600,39.95,17,2024-05-27,1
+C00455,zaragoza,fibra_300,29.95,18,2024-05-04,1
+C00108,Madrid,convergente,59.95,82,2019-02-05,1
+C00181,SEVILLA,fibra_600,44.95,40,2022-06-30,yes
+C00231,Madrid,fibra_600,41.95,72,2019-11-23,1
+C00255,Barcelona,Movil_solo,0,46,2022-01-19,1
+C00026,Valencia ,convergente,61.95,57,2021-02-03,no
+C00209,Sevilla,convergente,57.95,47,2021-11-27,1
+C00451,Sevilla,fibra_1000,49.95,4,2025-06-16,1
+C00272,Sevilla,fibra_300,27.95,35,2022-12-13,1
+C00391,Madrid,fibra_300,29.95,31,2023-03-23,1
+C00450,Valencia,fibra_1000,49.95,11,2024-11-28,1
+C00039,Sevilla,movil_solo,16.95,10,2024-12-21,1
+C00212,Zaragoza,Convergente,64.95,44,2022-03-20,1
+C00308,Zaragoza,movil_solo,14.95,10,2025-01-03,1
+C00447,Sevilla,fibra_300,29.95,72,2019-11-10,1
+C00146,Valencia,FIBRA_1000,51.95,,2024-11-06,1
+C00260, Valencia ,fibra_1000,,60,2020-11-09,1
+C00147,Madrid,FIBRA_1000,54.95,58,2021-01-10,
+C00161,Bilbao,convergente,57.95,49,2021-09-26,1
+C00219,Madrid,fibra_1000,49.95,81,2019-03-01,1
+C00288,Madrid,convergente,57.95,9,2025-01-24,1
+C00286,Valencia,convergente,59.95,33,2023-02-13,1
+C00193,Madrid ,movil_solo,16.95,25,2023-10-07,1
+C00291,Valencia,convergente,61.95,,2021-09-18,1
+C00382,BARCELONA,fibra_1000,49.95,67,2020-04-10,1
+C00192,sevilla,fibra_600,39.95,64,2020-07-17,1
+C00117,Madrid,fibra_300,31.95,81,2019-03-04,1
+C00416,Sevilla,fibra_600,39.95,26,2023-08-23,
+C00268,Barcelona ,movil_solo,14.95,43,2022-04-17,1
+C00347,VALENCIA,fibra1000,49.95,80,2019-03-27,1
+C00067,Madrid,fibra_1000,50.95,16,2024-07-08,1
+C00202,Zaragoza,fibra_600,39.95,16,2024-07-02,1
+C00205,Madrid,fibra_600,37.95,24,2023-10-24,1
+C00259,Barcelona,Fibra_300,29.95,77,2019-06-12,1
+C00232,Bilbao,movil_solo,14.95,81,2019-02-11,1
+C00062,Madrid,movil_solo,16.95,50,2021-08-29,1
+C00435,Barcelona,fibra_300,31.95,17,2026-03-29,1
+C00083,Valencia,fibra_600,37.95,29,2023-06-11,yes
+C00398,Zaragoza ,fibra_600,37.95,15,2024-07-14,1
+C00453,Madrid,convergente,59.95,77,2019-06-23,1
+C00315,Valencia,convergente,57.95,10,2024-12-20,1
+C00078,Madrid,fibra_600,44.95,15,2024-08-02,1
+C00033, Valencia ,CONVERGENTE,59.95,38,2022-09-17,1
+C00340,Sevilla,fibra_600,39.95,66,2020-05-24,1
+C00104,Sevilla,convergente,64.95,83,2018-12-25,
+C00235,Valencia,movil_solo,12.95,53,2021-06-21,1
+C00043,sevilla,MOVIL_SOLO,,39,2022-07-27,1
+C00115,barcelona,movil_solo,14.95,70,2020-01-13,1
+C00035,Zaragoza,fibra_300,27.95,75,2019-08-19,1
+C00283,madrid,fibra_1000,49.95,,2025-09-18,1
+C00082,Barcelona,fibra_1000,49.95,11,2024-11-22,1
+C00076,Madrid,convergente,61.95,60,2020-11-20,1
+C00169,Barcelona ,convergente,59.95,53,2021-06-06,1
+C00139,Zaragoza,FIBRA_600,41.95,25,2023-09-18,0
+C00040,Bilbao,Fibra_300,27.95,62,2020-09-27,1
+C00437,Madrid,fibra_1000,47.95,48,2021-10-31,1
+C00105,Valencia,fibra_1000,47.95,54,2021-05-19,1
+C00397,Sevilla,convergente,61.95,38,2022-09-16,1
+C00305,Madrid,fibra_600,39.95,55,2021-04-06,1
+C00318,Madrid,CONVERGENTE,59.95,64,2020-07-09,1
+C00464, Madrid ,FIBRA_300,-31.95,67,2020-04-03,1
+C00130,Bilbao,fibra_300,29.95,71,2019-12-12,1
+C00328,Bilbao,movil_solo,16.95,18,2024-04-12,1
+C00248,Barcelona,fibra_1000,49.95,69,2020-02-05,1
+C00177,Madrid,convergente,57.95,70,2020-01-05,1
+C00344, Zaragoza ,movil_solo,16.95,29,2023-06-10,1
+C00465,barcelona,fibra600,41.95,71,2019-12-12,1
+C00449,Valencia,fibra_300,34.95,23,2023-12-07,1
+C00394,Zaragoza,fibra_600,39.95,65,2020-06-29,1
+C00156,Sevilla,convergente,59.95,36,2022-11-10,1
+C00382,BARCELONA,fibra_1000,50.95,67,2020-04-10,1
+C00095,Valencia,fibra_600,39.95,33,2023-01-17,
+C00470, Valencia ,fibra_300,29.95,76,2019-07-11,1
+C00014,BARCELONA,fibra_1000,49.95,69,2020-02-14,1
+C00074,Bilbao,Fibra_300,,52,2021-07-09,yes
+C00163,Barcelona,fibra_1000,49.95,55,2021-03-29,1
+C00497,Sevilla,movil_solo,14.95,1,2025-09-19,1
+C00295,Sevilla,fibra_600,39.95,30,2023-05-16,1
+C00191,Barcelona,fibra_1000,49.95,30,2023-05-05,1
+C00022,Madrid,convergente,61.95,72,2019-12-03,1
+C00303,Valencia,fibra_600,39.95,49,2021-10-20,1
+C00240,Sevilla,movil_solo,12.95,14,2024-08-20,1
+C00215,Bilbao,fibra600,39.95,4,2025-06-28,yes
+C00361,Madrid,convergente,59.95,24,2023-10-30,1
+C00093,Zaragoza,fibra_600,38.95,76,2019-07-12,1
+C00274,Bilbao,Movil_solo,12.95,69,2020-02-20,1
+C00474,Bilbao ,movil_solo,19.95,80,2019-04-03,1
+C00189,Sevilla,movil_solo,14.95,70,2020-01-22,0
+C00434,Sevilla,fibra_300,27.95,72,2026-04-10,1
+C00371,Bilbao,fibra_600,41.95,57,2021-01-28,0
+C00418,Barcelona,convergente,59.95,38,2022-09-01,1
+C00422,sevilla,convergente,59.95,71,2019-12-04,0
+C00092,BARCELONA,fibra_600,,15,2024-08-05,1
+C00337,Barcelona,movil_solo,19.95,25,2023-09-15,1
+C00262,Valencia,fibra_600,44.95,82,2019-02-04,1
+C00265,Zaragoza,fibra_600,41.95,51,2021-07-30,1
+C00322,BILBAO,movil_solo,16.95,72,2019-11-16,1
+C00127,Madrid,fibra_1000,49.95,81,2019-02-11,1
+C00138,Madrid,fibra_300,29.95,76,2019-07-18,1
+C00174,Madrid,movil_solo,14.95,71,2019-12-26,1
+C00224,barcelona,fibra_1000,47.95,57,2021-02-20,1
+C00464, Madrid ,FIBRA_300,-30.95,67,2020-04-03,1
+C00405,Sevilla,fibra_600,42.95,78,2019-05-21,1
+C00363,Madrid,fibra_600,41.95,46,2022-01-05,1
+C00044,Zaragoza,fibra_600,39.95,33,2023-02-04,no
+C00324,Zaragoza,movil_solo,12.95,7,2025-03-23,1
+C00488,BARCELONA,fibra_300,29.95,15,2024-07-19,1
+C00045,zaragoza,fibra_300,-29.95,35,2022-12-04,1
+C00476,Zaragoza ,movilsolo,16.95,47,2021-12-10,1
+C00141,Valencia,movil_solo,16.95,32,2023-03-13,0
+C00145,Valencia,FIBRA_300,29.95,18,2024-04-21,yes
+C00332,Bilbao,Fibra_1000,48.95,9,2026-03-08,0
+C00102, Valencia ,Fibra_300,29.95,14,2024-09-02,1
+C00454,Zaragoza,fibra_1000,49.95,56,2021-03-03,1
+C00153,Barcelona,convergente,57.95,29,2023-06-11,1
+C00284,Sevilla ,Fibra_300,29.95,81,2019-02-07,1
+C00183,Valencia ,convergente,57.95,45,2022-02-07,1
+C00204,Bilbao,fibra_1000,0,19,2024-03-23,1
+C00061,valencia,convergente,57.95,34,2022-12-24,1
+C00132,Valencia ,fibra_600,39.95,51,2021-08-06,1
+C00378,Valencia,fibra_600,44.95,70,2026-03-06,1
+C00024,Zaragoza,fibra_300,31.95,10,2024-12-30,1
+C00233,Bilbao,fibra_300,34.95,34,2023-01-08,1
+C00175,Valencia,CONVERGENTE,59.95,72,2019-11-19,1
+C00348, Madrid ,fibra_300,29.95,40,2022-07-12,1
+C00251,barcelona,Fibra_300,31.95,43,2022-03-31,1
+C00500,Zaragoza ,fibra_300,31.95,39,2022-07-26,1
+C00386,Barcelona,fibra_600,39.95,13,2024-10-01,1
+C00221,Sevilla,movilsolo,14.95,42,2022-04-26,1
+C00400,zaragoza,fibra_300,27.95,20,2024-03-10,1
+C00041,Valencia,fibra_600,41.95,3,2025-07-25,1
+C00271,Zaragoza,fibra600,41.95,64,2020-07-19,yes
+C00133,Bilbao,convergente,59.95,52,2021-07-01,1
+C00433,Sevilla ,movil_solo,19.95,51,2021-08-17,1
+C00388,Zaragoza,movil_solo,16.95,4,2025-07-02,1
+C00012, Sevilla ,fibra_300,29.95,45,2022-02-01,1
+C00023,Sevilla,convergente,59.95,67,2020-04-03,1
+C00438,Sevilla,fibra_300,31.95,26,2023-09-03,1
+C00480, Zaragoza ,movilsolo,14.95,48,2021-11-08,1
+C00290,Madrid,fibra_1000,49.95,61,2020-09-30,1
+C00028,Zaragoza,fibra_300,31.95,10,2024-12-28,1
+C00178,Barcelona,fibra_1000,49.95,14,2024-09-05,1
+C00144,SEVILLA,fibra_600,41.95,28,2023-07-07,1
+C00150,Bilbao ,Fibra_1000,47.95,16,2024-07-06,1
+C00495,Zaragoza,fibra_600,44.95,6,2025-04-16,1
+C00307,Zaragoza,fibra_1000,51.95,32,2023-03-07,1
+C00425,Zaragoza,movil_solo,14.95,68,2020-03-08,1
+C00256,Valencia ,fibra600,37.95,31,2023-04-13,1
+C00282,BILBAO,fibra_1000,47.95,78,2019-05-18,1
+C00152,Valencia,movil_solo,19.95,7,2025-03-26,
+C00056,Barcelona,fibra_1000,49.95,30,2023-05-02,1
+C00390,Madrid,convergente,0,21,2024-02-01,1
+C00436,Bilbao,convergente,59.95,44,2022-03-20,1
+C00134,Madrid ,fibra_1000,49.95,67,2020-04-12,0
+C00267,Sevilla,convergente,57.95,38,2022-09-08,1
+C00487, Zaragoza ,fibra_600,39.95,43,2022-04-14,1
+C00222,Zaragoza,Fibra_300,27.95,33,2023-02-15,1
+C00138,Madrid,fibra_300,29.95,76,2019-07-18,1
+C00002,Madrid,convergente,57.95,29,2023-05-26,1
+C00136,Madrid,fibra_600,39.95,41,2022-06-02,1
+C00279,Zaragoza,fibra_600,41.95,51,2021-07-29,1
+C00173,Sevilla,FIBRA_600,39.95,12,2024-11-01,1
+C00330,Sevilla,fibra_600,39.95,51,2021-08-13,1
+C00216,sevilla,convergente,61.95,33,2023-02-01,1
+C00071,Barcelona,movil_solo,16.95,27,2026-04-05,
+C00364,BARCELONA,fibra_1000,51.95,42,2022-05-03,yes
+C00306,Bilbao,fibra_600,39.95,28,2023-07-06,1
+C00270,Bilbao,movil_solo,14.95,33,2023-01-25,1
+C00263,Zaragoza,movil_solo,14.95,34,2022-12-21,1
+C00473, Valencia ,movil_solo,12.95,72,2019-11-13,1
+C00496,Bilbao,Fibra_600,,18,2024-04-26,1
+C00185,BARCELONA,fibra_1000,49.95,,2021-06-23,yes
+C00066,Valencia,fibra_600,41.95,33,2023-02-08,1
+C00070,Sevilla,fibra_1000,51.95,37,2022-09-27,1
+C00140,Zaragoza,fibra_600,41.95,44,2022-03-12,1
+C00196,Bilbao,fibra_1000,54.95,,2019-09-21,1
+C00486, Barcelona ,fibra_600,39.95,33,2023-01-22,1
+C00350,Valencia,fibra_1000,,9,2025-02-01,1
+C00381, Zaragoza ,movil_solo,19.95,80,2019-03-11,1
+C00269,BARCELONA,movil_solo,19.95,2,2025-09-02,1
+C00091,Zaragoza,convergente,61.95,61,2020-10-02,1
+C00421,Zaragoza,fibra_1000,54.95,4,2025-06-30,1
+C00331,Valencia,fibra_1000,,9,2025-01-16,1
+C00472,Sevilla,fibra_1000,51.95,34,2023-01-04,1
+C00025,Barcelona,fibra600,41.95,63,2020-08-24,1
+C00187,barcelona,fibra_600,39.95,2,2025-08-22,1
+C00395,Barcelona,movil_solo,12.95,29,2023-05-25,
+C00379,madrid,fibra_300,31.95,77,2019-06-21,1
+C00244,Sevilla,fibra_600,39.95,39,2022-08-12,1
+C00207,Valencia,convergente,,43,2022-04-14,0
+C00407,Barcelona,fibra_300,29.95,36,2022-11-16,1
+C00203,Madrid,fibra_600,39.95,33,2023-02-04,1
+C00089,Zaragoza,fibra_1000,47.95,35,2022-11-27,1
+C00171,Madrid,fibra_600,39.95,51,2021-08-06,1
+C00396,Zaragoza,movil_solo,12.95,20,2024-03-09,1
+C00110, Valencia ,movil_solo,16.95,38,2022-08-25,1
+C00068,Madrid,Fibra_600,-44.95,80,2019-03-27,1
+C00493,BILBAO,FIBRA_600,41.95,29,2023-05-27,1
+C00099, Zaragoza ,fibra_600,41.95,83,2019-01-07,1
+C00484,Sevilla,fibra_300,29.95,61,2020-10-04,0
+C00085,Barcelona,movil_solo,12.95,9,2025-01-15,1
+C00312,VALENCIA,fibra_1000,49.95,,2021-12-17,1
+C00109,Zaragoza,movil_solo,19.95,29,2023-05-21,1
+C00225,Valencia,fibra_600,39.95,60,2020-11-06,1
+C00360,Barcelona,convergente,59.95,53,2021-06-01,yes
+C00135,Bilbao,fibra_300,29.95,5,2025-05-25,
+C00151,Sevilla,MOVIL_SOLO,19.95,78,2019-05-21,0
+C00080,Valencia,fibra_600,39.95,24,2023-10-31,1
+C00372,Zaragoza,movil_solo,14.95,83,2019-01-07,1
+C00229,Bilbao,fibra_1000,54.95,43,2022-03-30,1
+C00142,BILBAO,fibra_600,39.95,72,2019-11-18,1
+C00351,Madrid,fibra_300,31.95,82,2019-01-25,1
+C00300,Madrid,convergente,64.95,46,2021-12-31,yes
+C00498,Barcelona,fibra_300,34.95,52,2021-06-30,1
+C00137,Valencia,fibra_1000,47.95,71,2019-12-05,0
+C00264,bilbao,fibra_1000,54.95,69,2020-02-11,1
+C00077,Sevilla,convergente,64.95,6,2025-05-04,1
+C00317,Barcelona,fibra_1000,49.95,9,2025-02-01,1
+C00275,zaragoza,fibra_300,29.95,40,2022-06-22,1
+C00157,bilbao,fibra1000,54.95,62,2020-09-13,1
+C00088,Sevilla,convergente,57.95,49,2021-09-26,1
+C00106,Barcelona,Fibra_1000,47.95,50,2021-08-28,1
+C00287,Valencia,fibra_300,27.95,67,2020-05-01,1
+C00165,Bilbao,movil_solo,19.95,74,2019-09-30,1
+C00064, Barcelona ,movil_solo,12.95,10,2024-12-28,1
+C00499,Bilbao,Fibra_300,,3,2025-08-01,1
+C00018,Sevilla,fibra_300,-34.95,77,2019-06-21,1
+C00482,SEVILLA,fibra_1000,49.95,64,2020-07-23,1
+C00257,Bilbao,fibra_300,,31,2023-03-24,1
+C00327,Madrid,movil_solo,16.95,44,2022-03-01,1
+C00090,Madrid,fibra_300,29.95,31,2023-03-21,1
+C00320,Barcelona,fibra_600,41.95,48,2021-11-06,1
+C00211,Barcelona,fibra_300,29.95,1,2025-09-04,1
+C00129,Barcelona,movil_solo,14.95,1,2025-09-22,1
+C00057,Bilbao,fibra_300,31.95,7,2025-03-30,0
+C00010,Barcelona,convergente,64.95,84,2018-11-17,1
+C00311,Madrid,movil_solo,14.95,84,2018-12-06,1
+C00168,Valencia,convergente,57.95,39,2022-08-07,1
+C00034,Valencia,fibra_300,27.95,43,2022-04-09,1
+C00431,madrid,fibra_600,0,7,2025-03-30,1
+C00170,Zaragoza,FIBRA_600,44.95,42,2022-05-17,1
+C00266,Sevilla,fibra_1000,47.95,39,2022-08-04,
+C00369,Madrid,movil_solo,14.95,14,2024-09-02,1
+C00373,Zaragoza,movil_solo,14.95,62,2020-09-10,1
+C00094,Barcelona,FIBRA_600,37.95,5,2025-05-08,1
+C00417,Barcelona,fibra_1000,51.95,6,2025-04-20,1
+C00314,Zaragoza,movil_solo,12.95,52,2021-07-22,1
+C00441,Madrid,fibra_600,37.95,20,2024-02-24,1
+C00047,Sevilla,fibra_1000,49.95,39,2022-08-11,1
+C00167,Valencia,convergente,59.95,65,2020-06-02,1
+C00294,Zaragoza,fibra_600,41.95,22,2023-12-30,1
+C00112,Barcelona,convergente,59.95,82,2019-01-19,0
+C00176,Bilbao,fibra_300,29.95,58,2021-01-05,1
+C00226,Zaragoza,fibra_600,37.95,18,2024-04-24,1
+C00118,Bilbao,fibra_600,39.95,38,2022-09-07,1
+C00301,Barcelona,fibra_600,37.95,10,2025-01-04,1
+C00063,Bilbao,Fibra_300,29.95,41,2022-06-06,1
+C00374,Bilbao,fibra_1000,49.95,83,2018-12-14,1
+C00368,Barcelona,fibra_600,41.95,50,2021-09-10,1
+C00258,Bilbao,fibra_300,29.95,12,2024-10-13,1
+C00128,Zaragoza,convergente,59.95,78,2019-05-14,1
+C00210,zaragoza,fibra_300,29.95,71,2019-12-11,1
+C00216,sevilla,convergente,61.95,33,2023-02-01,1
+C00005, Madrid ,fibra_600,44.95,54,2021-05-21,1
+C00302,Zaragoza,fibra600,37.95,8,2025-02-12,yes
+C00357,Barcelona,fibra_300,29.95,81,2019-02-22,1
+C00052,ZARAGOZA,fibra_600,41.95,11,2024-11-19,1
+C00067,Madrid,fibra_1000,49.95,16,2024-07-08,1
+C00316, Barcelona ,convergente,59.95,66,2020-05-04,1
+C00392,Bilbao,fibra_300,27.95,78,2019-05-08,1
+C00457,Zaragoza,movil_solo,16.95,51,2026-03-07,1
+C00404,Valencia,fibra_600,39.95,,2018-12-02,1
+C00243,Madrid ,fibra_300,29.95,43,2022-04-15,1
+C00297,Madrid,Fibra_300,31.95,3,2025-07-19,1
+C00341,Madrid ,fibra600,-41.95,12,2024-10-17,1
+C00491,BARCELONA,fibra_600,39.95,6,2025-05-03,1
+C00415,Bilbao,FIBRA_1000,49.95,11,2026-04-27,1
+C00371,Bilbao,fibra_600,41.95,57,2021-01-28,0
+C00036,Barcelona,fibra_600,44.95,81,2019-02-23,1
+C00111,Madrid,fibra_1000,49.95,32,2023-02-25,yes
+C00375,Madrid ,fibra_300,31.95,11,2024-11-18,
+C00218,Valencia,movil_solo,12.95,83,2018-12-29,1
+C00031,Bilbao,movil_solo,14.95,58,2021-01-23,1
+C00075,Madrid,movil_solo,19.95,59,2020-12-10,1
+C00469,Barcelona,fibra_300,29.95,10,2024-12-07,
+C00236,Sevilla ,Fibra_600,41.95,82,2019-01-22,1
+C00403,Bilbao,CONVERGENTE,61.95,70,2020-01-23,1
+C00367,barcelona,fibra_600,39.95,19,2024-04-01,1
+C00362,Barcelona,fibra_600,39.95,50,2021-09-21,1
+C00419,Bilbao,fibra_300,31.95,41,2022-06-02,1
+C00304,Madrid,movil_solo,19.95,3,2025-07-24,1
+C00179,Valencia,fibra_1000,51.95,60,2020-11-03,1
+C00059, Madrid ,convergente,59.95,49,2021-10-12,1
+C00188,Valencia,fibra_300,34.95,10,2025-01-04,0
+C00440,Madrid,convergente,61.95,39,2022-07-21,1
+C00405,Sevilla,fibra_600,41.95,78,2019-05-21,1
+C00443,Valencia ,movil_solo,14.95,24,2023-10-25,1
+C00414,Valencia,convergente,59.95,22,2024-01-08,1
+C00409,Madrid,Fibra_1000,49.95,17,2024-05-19,0
+C00096,Madrid ,movil_solo,19.95,13,2024-09-26,1
+C00120,Bilbao,fibra_600,44.95,70,2020-01-13,1
+C00060,Zaragoza,movil_solo,14.95,81,2019-02-12,1
+C00199,Bilbao,convergente,57.95,53,2021-06-04,1
+C00228,Barcelona,fibra_600,39.95,,2023-12-12,1
+C00241,Zaragoza,fibra_300,29.95,52,2021-07-08,0
+C00463,Madrid,fibra_300,29.95,31,2023-03-24,1
+C00408,Madrid,fibra_600,,57,2021-02-09,yes
+C00448,Sevilla,fibra_600,37.95,31,2023-03-26,1
+C00358,Valencia,Fibra_300,29.95,69,2020-02-23,1
+C00423,Bilbao,movil_solo,16.95,59,2020-12-01,1
+C00131,Valencia,convergente,,51,2021-08-10,1
+C00230,Sevilla,fibra_300,27.95,31,2023-03-28,1
+C00124,Barcelona,fibra_600,39.95,61,2020-10-28,1
+C00343,Bilbao,movil_solo,14.95,31,2023-04-11,1
+C00429,Bilbao,Convergente,59.95,57,2021-02-05,1
+C00121,Madrid,Fibra_300,27.95,54,2021-05-02,1
+C00458,Sevilla,movil_solo,16.95,48,2021-10-27,1
+C00076,Madrid,convergente,61.95,60,2020-11-20,1
+C00030,Barcelona,fibra_1000,,,2020-06-09,1
+C00466,bilbao,fibra_300,31.95,16,2024-07-03,1
+C00166,Barcelona,FIBRA_1000,49.95,47,2021-12-20,1
+C00345,Bilbao,fibra_1000,49.95,4,2025-06-26,1
+C00239,Bilbao ,FIBRA_1000,49.95,31,2023-04-04,1
+C00446,Barcelona,movilsolo,,23,2023-11-20,1
+C00293,Valencia,movil_solo,12.95,13,2024-09-19,1
+C00053,madrid,fibra_600,,39,2022-08-03,1
+C00155,Zaragoza,fibra_300,27.95,8,2025-02-15,1
+C00016, Valencia ,fibra_600,39.95,14,2024-08-31,1
+C00245,Sevilla,convergente,59.95,47,2021-11-23,1
+C00038,Sevilla,fibra_600,44.95,69,2020-02-29,1
+C00376,Sevilla,fibra_1000,47.95,58,2021-01-06,1
+C00123,Zaragoza,Fibra_300,0,53,2021-06-08,1
+C00180,madrid,Movil_solo,14.95,52,2021-07-14,1

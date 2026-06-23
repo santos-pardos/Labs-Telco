@@ -1,0 +1,431 @@
+ticket_id,event_timestamp,customer_id,category,status,priority,resolution_hours,description
+T000327,2025-10-27T10:14:29,C00142,velocidad_baja,escalado,media,9.5,  Velocidad inferior a la contratada.  
+T000361,2025-10-10T08:00:09,C00159,portabilidad,abierto,baja,,Solicita portabilidad.
+T000167,2025-10-16T20:18:17,C00137,portabilidad,resuelto,critica,75.1,  Solicita portabilidad.  
+T000367,2025-10-05T00:07:30,C00198,Velocidad_baja,abierto,media,,Velocidad inferior a la contratada.
+T000023,2025-10-12T06:36:46,C00393,Portabilidad,en_proceso,media,,Solicita portabilidad.
+T000221,2025-10-16T06:37:25,C00336,consulta_tarifa,escalado,media,87.4,Consulta sobre tarifas.
+T000192,2025-10-17T11:20:39,C00080,Instalacion,escalado,baja,95.3,  Instalación pendiente.  
+T000187,2025-10-04T10:24:19,C00037,portabilidad,resuelto,media,-65.2,Solicita portabilidad.
+T000328,2025-10-12T12:20:02,C00046,Portabilidad,resuelto,baja,33.1,Solicita portabilidad.
+T000341,2025-10-22T20:14:16,C00489,Consulta Tarifa,abierto,media,,Consulta sobre tarifas.
+T000267,2025-10-22T08:51:57,C00210,facturacion,resuelto,media,34.7,Cargo no reconocido en factura.
+T000185,2025-10-03T15:26:49,C00921,facturacion,cerrado,media,43.1,Cargo no reconocido en factura.
+T000207,2025-10-17T17:28:44,C00480,portabilidad,escalado,baja,47.9,Solicita portabilidad.
+T000287,2025-10-31T08:21:48,C00987,Facturacion,cerrado,critica,58.3,Cargo no reconocido en factura.
+T000166,2025-10-14T06:12:06,C00266,portabilidad,abierto,baja,,Solicita portabilidad.
+T000007,2025-10-15T08:44:49,C00030,Sin_servicio,abierto,media,,Sin conexión desde hace horas.
+T000169,2025-10-22T18:09:19,C00067,facturacion,cerrado,media,9.5,  Cargo no reconocido en factura.  
+T000242,2025-10-25T11:54:06,C00302,facturacion,resuelto,media,68.2,Cargo no reconocido en factura.
+T000040,2025-10-19T20:37:22,C00251,intermitencias,escalado,alta,46.7,Cortes intermitentes frecuentes.
+T000356,2025-10-23T11:24:53,C00249,portabilidad,escalado,alta,51.5,Solicita portabilidad.
+T000045,2025-10-18T07:56:28,C00354,portabilidad,abierto,critica,,  Solicita portabilidad.  
+T000115,2025-10-11T00:12:42,C00004,INTERMITENCIAS,escalado,baja,46.1,Cortes intermitentes frecuentes.
+T000028,2025-10-27T07:42:55,C00337,intermitencias,abierto,baja,,  Cortes intermitentes frecuentes.  
+T000140,2025-10-02T20:21:48,C00021,facturacion,en_proceso,baja,,Cargo no reconocido en factura.
+T000254,2025-10-06T21:57:39,C00331,consulta_tarifa,escalado,baja,61.6,Consulta sobre tarifas.
+T000060,2025-10-05T11:59:40,C00161,velocidad_baja,en_proceso,baja,,Velocidad inferior a la contratada.
+T000384,2025-10-01T11:25:00,C00150,sin_servicio,escalado,baja,95.1,Sin conexión desde hace horas.
+T000370,2025-10-14T21:30:38,C00007,intermitencias,escalado,media,57.9,Cortes intermitentes frecuentes.
+T000123,2025-10-01T16:48:09,C00117,sin_servicio,escalado,baja,12.7,Sin conexión desde hace horas.
+T000009,2025-10-11T03:54:38,C00010,Velocidad Baja,abierto,media,,Velocidad inferior a la contratada.
+T000349,2025-10-11T15:04:22,C00064,sin_servicio,resuelto,baja,59.7,  Sin conexión desde hace horas.  
+T000183,2025-10-28T09:59:34,C00236,sin_servicio,resuelto,critica,30.8,Sin conexión desde hace horas.
+T000208,2025-10-06T14:37:22,C00043,instalacion,cerrado,alta,34.4,Instalación pendiente.
+T000205,2025-10-17T06:55:28,C00163,Portabilidad,resuelto,baja,34.3,  Solicita portabilidad.  
+T000288,2025-10-30T06:20:25,C00060,averia_router,resuelto,media,11.7,Router no enciende.
+T000018,2025-10-26T19:53:20,C00427,portabilidad,en_proceso,media,,Solicita portabilidad.
+T000291,2025-10-20T05:36:57,C00305,facturacion,cerrado,baja,72.4,Cargo no reconocido en factura.
+T000339,2025-10-18T00:58:03,C00016,instalacion,escalado,alta,1.1,  Instalación pendiente.  
+T000071,2025-10-19T09:27:38,C00236,instalacion,resuelto,media,54.3,Instalación pendiente.
+T000231,2025-10-25T13:24:39,C00425,Portabilidad,cerrado,baja,38.5,Solicita portabilidad.
+T000237,2025-10-27T11:55:06,C00217,averia_router,cerrado,baja,50.2,Router no enciende.
+T000222,2025-10-02T03:16:07,C00442,consulta_tarifa,cerrado,baja,41.4,Consulta sobre tarifas.
+T000134,2025-10-18T04:37:02,C00235,velocidad_baja,CERRADO,alta,84.7,Velocidad inferior a la contratada.
+T000366,2025-10-02T22:32:51,C00016,intermitencias,escalado,baja,67.8,Cortes intermitentes frecuentes.
+T000176,2025-10-31T15:01:47,C00194,portabilidad,en_proceso,media,,Solicita portabilidad.
+T000219,2025-10-03T07:15:39,C00044,FACTURACION,resuelto,media,41.9,Cargo no reconocido en factura.
+T000404,2025-10-19T11:26:23,C00455,portabilidad,resuelto,alta,77.6,  Solicita portabilidad.  
+T000022,2025-10-07T05:14:17,C00494,Intermitencias,escalado,alta,1.3,Cortes intermitentes frecuentes.
+T000406,2025-10-13T02:29:53,C00407,SIN_SERVICIO,en_proceso,alta,,Sin conexión desde hace horas.
+T000135,2025-10-19T05:18:58,C00126,facturacion,cerrado,critica,70.6,Cargo no reconocido en factura.
+T000271,2025-10-04T05:27:42,C00363,Facturacion,en_proceso,baja,,Cargo no reconocido en factura.
+T000132,2025-10-26T21:06:41,C00499,intermitencias,abierto,baja,,Cortes intermitentes frecuentes.
+T000114,2025-10-01T18:35:59,C00324,sin_servicio,resuelto,alta,94.6,Sin conexión desde hace horas.
+T000054,2025-10-30T01:53:38,C00025,facturacion,resuelto,media,93.0,Cargo no reconocido en factura.
+T000216,2025-10-08T22:37:18,C00441,INSTALACION,cerrado,baja,50.9,Instalación pendiente.
+T000189,2025-10-16T23:16:56,C00154,sin_servicio,escalado,baja,9999,Sin conexión desde hace horas.
+T000413,2025-10-20T16:42:19,C00275,facturacion,abierto,baja,,Cargo no reconocido en factura.
+T000335,2025-10-13T17:03:30,C00290,sin_servicio,resuelto,alta,-42.1,Sin conexión desde hace horas.
+T000322,2025-10-16T12:08:34,C00178,portabilidad,resuelto,media,21.6,  Solicita portabilidad.  
+T000188,2025-10-03T00:33:21,C00011,consulta_tarifa,en_proceso,media,,  Consulta sobre tarifas.  
+T000195,2025-10-06T17:23:19,C00475,velocidad_baja,escalado,baja,85.6,Velocidad inferior a la contratada.
+T000069,2025-10-06T02:46:51,C00170,sin_servicio,escalado,media,87.7,Sin conexión desde hace horas.
+T000038,2025-10-21T01:07:24,C00292,velocidad_baja,resuelto,alta,38.5,  Velocidad inferior a la contratada.  
+T000072,2025-10-31T03:23:26,C00449,sin_servicio,resuelto,media,74.2,Sin conexión desde hace horas.
+T000239,2025-10-29T18:55:00,C00194,facturacion,CERRADO,baja,27.0,Cargo no reconocido en factura.
+T000235,2025-10-12T20:50:51,C00238,consulta_tarifa,resuelto,media,40.2,Consulta sobre tarifas.
+T000158,2025-10-21T07:21:07,C00111,Consulta Tarifa,en_proceso,critica,,Consulta sobre tarifas.
+T000114,2025-10-01T18:35:59,C00324,sin_servicio,resuelto,alta,94.6,Sin conexión desde hace horas.
+T000193,2025-10-24T02:04:06,C00353,portabilidad,abierto,baja,,Solicita portabilidad.
+T000097,2025-10-06T11:12:30,C00069,velocidad_baja,escalado,media,70.7,Velocidad inferior a la contratada.
+T000330,2025-10-24T03:04:52,C00370,consulta_tarifa,escalado,media,32.9,Consulta sobre tarifas.
+T000141,2025-10-03T01:04:37,C00341,sin_servicio,resuelto,baja,13.9,Sin conexión desde hace horas.
+T000324,2025-10-15T12:43:42,C00380,instalacion,resuelto,baja,77.8,Instalación pendiente.
+T000282,2025-10-22T00:22:33,C00164,consulta_tarifa,cerrado,baja,67.0,  Consulta sobre tarifas.  
+T000292,2025-10-01T17:51:22,C00291,consulta_tarifa,RESUELTO,baja,34.8,Consulta sobre tarifas.
+T000390,2025-10-28T22:31:37,C00381,facturacion,abierto,media,,  Cargo no reconocido en factura.  
+T000364,2025-10-07T21:12:20,C00488,velocidad_baja,cerrado,critica,59.7,Velocidad inferior a la contratada.
+T000252,2025-10-09T14:03:58,C00318,consulta_tarifa,cerrado,baja,66.7,Consulta sobre tarifas.
+T000179,2025-10-03T16:10:37,C00472,sin_servicio,en_proceso,alta,,Sin conexión desde hace horas.
+T000113,2025-10-18T13:48:59,C00112,facturacion,escalado,media,31.2,Cargo no reconocido en factura.
+T000162,2025-10-07T13:26:46,C00236,instalacion,ABIERTO,media,,Instalación pendiente.
+T000238,2025-10-28T11:03:54,C00920,Sin Servicio,cerrado,baja,53.4,Sin conexión desde hace horas.
+T000087,2025-10-11T20:37:44,C00144,consulta_tarifa,en_proceso,baja,,Consulta sobre tarifas.
+T000198,2025-10-19T17:39:14,C00054,instalacion,cerrado,media,-27.3,Instalación pendiente.
+T000340,2025-10-26T15:47:18,C00918,Instalacion,resuelto,alta,8.9,Instalación pendiente.
+T000067,2025-10-05T06:01:58,C00362,sin_servicio,abierto,media,,Sin conexión desde hace horas.
+T000201,2025-10-13T17:52:31,C00361,portabilidad,en_proceso,critica,,Solicita portabilidad.
+T000420,2025-10-01T17:31:23,C00019,Intermitencias,cerrado,alta,55.4,Cortes intermitentes frecuentes.
+T000309,2025-10-21T01:40:48,C00371,consulta_tarifa,cerrado,media,21.3,  Consulta sobre tarifas.  
+T000146,2025-10-25T03:49:53,C00400,intermitencias,abierto,media,,Cortes intermitentes frecuentes.
+T000331,2025-10-04T19:50:42,C00133,sin_servicio,en_proceso,media,,Sin conexión desde hace horas.
+T000089,2025-10-30T12:08:36,C00238,Facturacion,EN_PROCESO,alta,,  Cargo no reconocido en factura.  
+T000142,2025-10-06T13:10:01,C00378,velocidad_baja,abierto,media,,Velocidad inferior a la contratada.
+T000029,2025-10-15T23:34:44,C00002,Averia Router,resuelto,baja,78.3,
+T000353,2025-10-01T09:46:26,C00191,FACTURACION,EN_PROCESO,media,,Cargo no reconocido en factura.
+T000332,2025-10-27T09:09:26,C00323,Portabilidad,en_proceso,alta,,Solicita portabilidad.
+T000165,2025-10-20T16:55:35,C00459,instalacion,cerrado,baja,9999,Instalación pendiente.
+T000259,2025-10-10T02:06:01,C00480,velocidad_baja,escalado,baja,58.2,Velocidad inferior a la contratada.
+T000212,2025-10-30T15:24:24,C00490,sin_servicio,abierto,media,,Sin conexión desde hace horas.
+T000279,2025-10-18T23:12:29,C00207,Consulta Tarifa,escalado,baja,25.2,Consulta sobre tarifas.
+T000020,2025-10-20T05:03:26,C00406,sin_servicio,cerrado,alta,84.9,Sin conexión desde hace horas.
+T000065,2025-10-08T18:43:22,C00045,consulta_tarifa,abierto,baja,,Consulta sobre tarifas.
+T000402,2025-10-28T23:19:31,C00348,instalacion,escalado,baja,86.9,  Instalación pendiente.  
+T000255,2025-10-07T11:23:07,C00952,VELOCIDAD_BAJA,cerrado,baja,64.6,Velocidad inferior a la contratada.
+T000258,2025-10-09T03:21:52,C00053,facturacion,cerrado,baja,42.1,Cargo no reconocido en factura.
+T000053,2025-10-03T13:01:57,C00243,velocidad_baja,escalado,baja,55.9,  Velocidad inferior a la contratada.  
+T000368,2025-10-07T18:55:13,C00440,facturacion,en_proceso,media,,  Cargo no reconocido en factura.  
+T000359,2025-10-23T14:05:43,C00317,intermitencias,resuelto,baja,46.2,Cortes intermitentes frecuentes.
+T000316,2025-10-15T12:09:51,C00214,velocidad_baja,en_proceso,baja,,  Velocidad inferior a la contratada.  
+T000112,2025-10-04T03:36:04,C00253,portabilidad,en_proceso,baja,,  Solicita portabilidad.  
+T000383,2025-10-30T06:52:16,C00430,sin_servicio,abierto,media,,Sin conexión desde hace horas.
+T000017,2025-10-01T19:16:22,C00269,sin_servicio,abierto,alta,,Sin conexión desde hace horas.
+T000082,2025-10-10T16:58:02,C00423,intermitencias,resuelto,media,83.8,  Cortes intermitentes frecuentes.  
+T000412,2025-10-14T14:42:33,C00226,Averia_router,cerrado,baja,24.2,  Router no enciende.  
+T000184,2025-10-02T00:24:33,C00319,instalacion,resuelto,media,64.5,Instalación pendiente.
+T000109,2025-10-02T00:35:33,C00415,intermitencias,cerrado,baja,14.9,Cortes intermitentes frecuentes.
+T000209,2025-10-14T13:36:16,C00432,PORTABILIDAD,en_proceso,baja,,Solicita portabilidad.
+T000015,2025-10-31T02:18:23,C00955,Velocidad Baja,cerrado,baja,18.4,Velocidad inferior a la contratada.
+T000313,2025-10-07T09:39:30,C00023,Consulta Tarifa,abierto,media,,Consulta sobre tarifas.
+T000059,2025-10-23T23:29:36,C00348,sin_servicio,escalado,media,42.0,Sin conexión desde hace horas.
+T000025,2025-10-31T01:24:46,C00356,portabilidad,abierto,alta,,Solicita portabilidad.
+T000261,2025-10-05T13:40:27,C00323,intermitencias,escalado,baja,11.2,Cortes intermitentes frecuentes.
+T000094,2025-10-10T09:55:49,C00268,instalacion,abierto,baja,,Instalación pendiente.
+T000084,2025-10-07T16:12:50,C00246,Portabilidad,escalado,baja,96.0,  Solicita portabilidad.  
+T000121,2025-10-06T03:10:01,C00272,intermitencias,RESUELTO,media,43.5,  Cortes intermitentes frecuentes.  
+T000363,2025-10-03T15:42:28,C00384,sin_servicio,en_proceso,alta,,Sin conexión desde hace horas.
+T000161,2025-10-21T01:36:14,C00490,intermitencias,escalado,baja,14.5,Cortes intermitentes frecuentes.
+T000030,2025-10-06T22:21:33,C00242,portabilidad,abierto,media,,Solicita portabilidad.
+T000329,2025-10-20T08:26:35,C00299,consulta_tarifa,ESCALADO,alta,20.7,Consulta sobre tarifas.
+T000336,2025-10-05T06:01:38,C00412,instalacion,abierto,baja,,Instalación pendiente.
+T000348,2025-10-05T23:00:13,C00361,sin_servicio,escalado,critica,70.7,  Sin conexión desde hace horas.  
+T000126,2025-10-28T19:02:02,C00055,intermitencias,escalado,media,28.0,  Cortes intermitentes frecuentes.  
+T000202,2025-10-27T15:13:45,C00017,instalacion,EN_PROCESO,media,,Instalación pendiente.
+T000263,2025-10-03T06:58:03,C00359,portabilidad,en_proceso,baja,,Solicita portabilidad.
+T000418,2025-10-12T03:03:39,C00221,sin_servicio,cerrado,media,42.9,Sin conexión desde hace horas.
+T000081,2025-10-18T22:51:33,C00032,portabilidad,abierto,baja,,Solicita portabilidad.
+T000248,2025-10-22T08:59:12,C00028,velocidad_baja,resuelto,media,4.3,Velocidad inferior a la contratada.
+T000093,2025-10-08T13:40:04,C00144,Intermitencias,ESCALADO,media,83.6,  Cortes intermitentes frecuentes.  
+T000376,2025-10-02T21:56:55,C00292,instalacion,en_proceso,alta,,  Instalación pendiente.  
+T000228,2025-10-24T00:44:43,C00067,consulta_tarifa,abierto,media,,Consulta sobre tarifas.
+T000204,2025-10-09T08:19:26,C00433,intermitencias,cerrado,critica,13.1,Cortes intermitentes frecuentes.
+T000326,2025-10-08T11:32:48,C00118,consulta_tarifa,cerrado,alta,90.6,
+T000012,2025-10-25T02:00:03,C00242,intermitencias,abierto,media,,  Cortes intermitentes frecuentes.  
+T000411,2025-10-09T17:43:21,C00140,portabilidad,cerrado,media,43.2,Solicita portabilidad.
+T000360,2025-10-31T15:33:18,C00112,Averia_router,abierto,baja,,Router no enciende.
+T000393,2025-10-13T00:47:43,C00135,Portabilidad,abierto,baja,,Solicita portabilidad.
+T000005,2025-10-12T11:05:07,C00357,sin_servicio,escalado,alta,24.8,Sin conexión desde hace horas.
+T000133,2025-10-29T03:01:53,C00235,averia_router,resuelto,baja,1.0,Router no enciende.
+T000080,2025-10-18T15:57:04,C00332,instalacion,en_proceso,baja,,Instalación pendiente.
+T000371,2025-10-06T02:05:57,C00476,portabilidad,cerrado,media,23.7,Solicita portabilidad.
+T000269,2025-10-06T04:31:05,C00265,averia_router,en_proceso,baja,,Router no enciende.
+T000247,2025-10-28T04:32:09,C00016,averia_router,cerrado,media,-90.4,Router no enciende.
+T000064,2025-10-24T16:14:43,C00474,Velocidad Baja,resuelto,media,46.8,Velocidad inferior a la contratada.
+T000032,2025-10-19T12:26:07,C00228,averia_router,abierto,alta,,Router no enciende.
+T000119,2025-10-04T18:06:48,C00256,intermitencias,escalado,media,50.0,Cortes intermitentes frecuentes.
+T000190,2025-10-20T10:35:39,C00367,facturacion,cerrado,baja,41.3,Cargo no reconocido en factura.
+T000210,2025-10-31T19:23:30,C00321,Consulta Tarifa,cerrado,media,91.3,Consulta sobre tarifas.
+T000073,2025-10-23T13:57:27,C00299,consulta_tarifa,cerrado,alta,18.0,Consulta sobre tarifas.
+T000266,2025-10-31T09:30:31,C00403,Portabilidad,en_proceso,media,,Solicita portabilidad.
+T000031,2025-10-28T20:40:27,C00923,portabilidad,escalado,critica,59.5,
+T000280,2025-10-27T11:43:21,C00412,consulta_tarifa,escalado,baja,84.1,  Consulta sobre tarifas.  
+T000110,2025-10-16T04:43:50,C00243,AVERIA_ROUTER,abierto,media,,Router no enciende.
+T000116,2025-10-01T10:09:45,C00383,intermitencias,en_proceso,media,,Cortes intermitentes frecuentes.
+T000337,2025-10-15T16:41:47,C00498,sin_servicio,resuelto,media,75.8,Sin conexión desde hace horas.
+T000150,2025-10-18T00:33:22,C00326,SIN_SERVICIO,escalado,media,85.7,Sin conexión desde hace horas.
+T000416,2025-10-27T17:43:23,C00353,instalacion,resuelto,alta,37.0,Instalación pendiente.
+T000010,2025-10-08T21:07:43,C00225,sin_servicio,EN_PROCESO,baja,,Sin conexión desde hace horas.
+T000232,2025-10-14T09:20:34,C00023,facturacion,resuelto,critica,56.8,Cargo no reconocido en factura.
+T000253,2025-10-11T19:25:50,C00395,consulta_tarifa,escalado,media,35.5,Consulta sobre tarifas.
+T000178,2025-10-22T00:05:49,C00336,portabilidad,escalado,alta,53.4,  Solicita portabilidad.  
+T000289,2025-10-28T11:09:24,C00458,portabilidad,abierto,media,,Solicita portabilidad.
+T000043,2025-10-25T12:04:51,C00074,facturacion,resuelto,media,51.5,Cargo no reconocido en factura.
+T000144,2025-10-26T00:48:26,C00356,facturacion,resuelto,baja,43.8,  Cargo no reconocido en factura.  
+T000139,2025-10-04T18:38:59,C00335,facturacion,cerrado,baja,2.4,Cargo no reconocido en factura.
+T000246,2025-10-09T13:03:10,C00253,sin_servicio,resuelto,media,18.3,Sin conexión desde hace horas.
+T000132,2025-10-26T21:06:41,C00499,intermitencias,abierto,baja,,Cortes intermitentes frecuentes.
+T000214,2025-10-31T05:31:11,C00118,velocidad_baja,escalado,media,78.1,Velocidad inferior a la contratada.
+T000395,2025-10-11T23:12:59,C00167,facturacion,en_proceso,media,,Cargo no reconocido en factura.
+T000405,2025-10-03T10:27:06,C00475,sin_servicio,cerrado,alta,86.6,Sin conexión desde hace horas.
+T000066,2025-10-17T17:43:30,C00306,sin_servicio,cerrado,baja,10.2,  Sin conexión desde hace horas.  
+T000120,2025-10-20T23:12:21,C00497,Intermitencias,escalado,baja,42.2,  Cortes intermitentes frecuentes.  
+T000394,2025-10-12T21:20:38,C00208,velocidad_baja,resuelto,baja,32.0,  Velocidad inferior a la contratada.  
+T000276,2025-10-25T08:22:26,C00154,INTERMITENCIAS,en_proceso,media,,Cortes intermitentes frecuentes.
+T000314,2025-10-12T02:44:48,C00363,CONSULTA_TARIFA,RESUELTO,baja,-40.8,Consulta sobre tarifas.
+T000062,2025-10-02T06:23:18,C00481,averia_router,en_proceso,alta,,Router no enciende.
+T000317,2025-10-16T14:32:55,C00006,averia_router,cerrado,media,60.6,Router no enciende.
+T000103,2025-10-05T13:07:40,C00057,velocidad_baja,ESCALADO,baja,52.0,Velocidad inferior a la contratada.
+T000272,2025-10-23T10:01:35,C00445,Intermitencias,escalado,media,43.2,Cortes intermitentes frecuentes.
+T000376,2025-10-02T21:56:55,C00292,instalacion,en_proceso,alta,,  Instalación pendiente.  
+T000265,2025-10-08T13:05:57,C00497,portabilidad,escalado,baja,36.4,Solicita portabilidad.
+T000215,2025-10-27T05:25:38,C00326,velocidad_baja,abierto,baja,,  Velocidad inferior a la contratada.  
+T000021,2025-10-29T04:54:58,C00353,facturacion,abierto,media,,Cargo no reconocido en factura.
+T000251,2025-10-17T18:49:06,C00424,consulta_tarifa,cerrado,media,62.4,Consulta sobre tarifas.
+T000070,2025-10-27T05:40:35,C00252,sin_servicio,escalado,media,94.9,Sin conexión desde hace horas.
+T000243,2025-10-08T13:36:58,C00025,Intermitencias,abierto,baja,,  Cortes intermitentes frecuentes.  
+T000389,2025-10-09T09:57:07,C00091,facturacion,escalado,baja,90.2,Cargo no reconocido en factura.
+T000256,2025-10-24T03:37:03,C00312,velocidad_baja,CERRADO,media,59.5,  Velocidad inferior a la contratada.  
+T000200,2025-10-25T07:17:12,C00482,sin_servicio,escalado,media,73.5,Sin conexión desde hace horas.
+T000154,2025-10-28T22:32:11,C00154,Velocidad_baja,escalado,media,50.8,  Velocidad inferior a la contratada.  
+T000417,2025-10-11T15:05:08,C00412,facturacion,cerrado,media,26.7,Cargo no reconocido en factura.
+T000027,2025-10-27T07:40:56,C00155,velocidad_baja,resuelto,baja,87.4,
+T000360,2025-10-31T15:33:18,C00112,Averia_router,abierto,baja,,Router no enciende.
+T000024,2025-10-06T23:40:37,C00294,Averia_router,ABIERTO,alta,,  Router no enciende.  
+T000083,2025-10-22T08:32:51,C00032,Averia_router,cerrado,critica,44.7,  Router no enciende.  
+T000297,2025-10-15T10:04:39,C00493,sin_servicio,escalado,alta,2.4,Sin conexión desde hace horas.
+T000323,2025-10-05T07:52:31,C00479,facturacion,abierto,baja,,  Cargo no reconocido en factura.  
+T000078,2025-10-03T13:21:52,C00184,averia_router,escalado,media,28.3,Router no enciende.
+T000168,2025-10-22T12:46:54,C00499,sin_servicio,en_proceso,media,,Sin conexión desde hace horas.
+T000122,2025-10-03T00:27:51,C00403,Sin Servicio,en_proceso,media,,Sin conexión desde hace horas.
+T000194,2025-10-22T00:56:10,C00193,portabilidad,cerrado,baja,9999,  Solicita portabilidad.  
+T000223,2025-10-05T14:03:02,C00416,Averia Router,abierto,media,,Router no enciende.
+T000042,2025-10-02T23:36:31,C00170,intermitencias,en_proceso,alta,,Cortes intermitentes frecuentes.
+T000039,2025-10-23T19:45:23,C00410,averia_router,RESUELTO,critica,71.0,Router no enciende.
+T000055,2025-10-01T11:24:38,C00003,portabilidad,abierto,baja,,
+T000307,2025-10-05T02:26:15,C00163,consulta_tarifa,abierto,alta,,Consulta sobre tarifas.
+T000218,2025-10-16T00:07:04,C00263,Sin Servicio,resuelto,alta,47.2,  Sin conexión desde hace horas.  
+T000163,2025-10-21T10:55:27,C00117,consulta_tarifa,resuelto,baja,56.9,Consulta sobre tarifas.
+T000118,2025-10-16T17:19:49,C00017,velocidad_baja,abierto,alta,,Velocidad inferior a la contratada.
+T000138,2025-10-13T19:28:55,C00935,FACTURACION,en_proceso,baja,,Cargo no reconocido en factura.
+T000004,2025-10-23T06:19:54,C00010,consulta_tarifa,escalado,baja,-33.6,Consulta sobre tarifas.
+T000145,2025-10-11T21:30:54,C00255,Portabilidad,cerrado,critica,40.0,Solicita portabilidad.
+T000274,2025-10-16T01:25:25,C00145,facturacion,EN_PROCESO,baja,,Cargo no reconocido en factura.
+T000355,2025-10-15T04:51:15,C00068,sin_servicio,abierto,baja,,Sin conexión desde hace horas.
+T000035,2025-10-29T17:13:58,C00095,portabilidad,escalado,critica,14.5,  Solicita portabilidad.  
+T000156,2025-10-02T09:15:19,C00488,velocidad_baja,abierto,baja,,Velocidad inferior a la contratada.
+T000057,2025-10-03T09:48:17,C00395,velocidad_baja,EN_PROCESO,media,,  Velocidad inferior a la contratada.  
+T000419,2025-10-24T17:18:34,C00957,AVERIA_ROUTER,RESUELTO,critica,88.1,Router no enciende.
+T000117,2025-10-20T09:01:20,C00390,Sin_servicio,escalado,critica,28.1,Sin conexión desde hace horas.
+T000018,2025-10-26T19:53:20,C00427,portabilidad,en_proceso,media,,Solicita portabilidad.
+T000074,2025-10-04T11:56:50,C00012,portabilidad,en_proceso,baja,,Solicita portabilidad.
+T000270,2025-10-19T22:22:10,C00172,averia_router,escalado,media,13.2,Router no enciende.
+T000378,2025-10-11T08:43:02,C00017,facturacion,cerrado,critica,5.3,
+T000318,2025-10-14T18:53:43,C00459,consulta_tarifa,resuelto,critica,95.4,Consulta sobre tarifas.
+T000335,2025-10-13T17:03:30,C00290,sin_servicio,resuelto,alta,-42.1,Sin conexión desde hace horas.
+T000398,2025-10-20T18:40:38,C00140,Portabilidad,abierto,baja,,Solicita portabilidad.
+T000011,2025-10-18T23:30:14,C00408,Consulta_tarifa,CERRADO,media,43.3,Consulta sobre tarifas.
+T000107,2025-10-30T00:13:53,C00166,Intermitencias,abierto,media,,Cortes intermitentes frecuentes.
+T000234,2025-10-30T01:01:17,C00075,Intermitencias,cerrado,alta,33.8,Cortes intermitentes frecuentes.
+T000354,2025-10-18T23:23:09,C00070,sin_servicio,abierto,baja,,
+T000301,2025-10-05T15:39:15,C00350,facturacion,cerrado,alta,22.1,  Cargo no reconocido en factura.  
+T000262,2025-10-07T00:17:50,C00060,facturacion,cerrado,alta,45.1,Cargo no reconocido en factura.
+T000048,2025-10-27T02:14:05,C00123,velocidad_baja,resuelto,alta,62.0,  Velocidad inferior a la contratada.  
+T000137,2025-10-20T22:54:37,C00175,instalacion,en_proceso,baja,,Instalación pendiente.
+T000098,2025-10-04T15:32:06,C00405,consulta_tarifa,escalado,baja,47.2,Consulta sobre tarifas.
+T000293,2025-10-14T10:42:05,C00376,instalacion,abierto,baja,,  Instalación pendiente.  
+T000372,2025-10-20T09:31:50,C00169,velocidad_baja,escalado,alta,93.8,Velocidad inferior a la contratada.
+T000396,2025-10-02T10:47:19,C00474,portabilidad,en_proceso,baja,,  Solicita portabilidad.  
+T000225,2025-10-17T20:16:21,C00453,averia_router,CERRADO,media,19.8,Router no enciende.
+T000151,2025-10-16T17:12:56,C00001,intermitencias,cerrado,media,8.0,Cortes intermitentes frecuentes.
+T000275,2025-10-29T14:53:44,C00211,averia_router,escalado,baja,7.2,Router no enciende.
+T000325,2025-10-26T17:47:41,C00303,averia_router,cerrado,media,94.7,  Router no enciende.  
+T000049,2025-10-06T12:08:53,C00027,instalacion,resuelto,baja,88.6,Instalación pendiente.
+T000374,2025-10-09T23:10:06,C00381,facturacion,ESCALADO,media,63.4,
+T000358,2025-10-17T14:41:20,C00346,velocidad_baja,en_proceso,alta,,Velocidad inferior a la contratada.
+T000001,2025-10-06T10:51:55,C00309,intermitencias,en_proceso,baja,,Cortes intermitentes frecuentes.
+T000226,2025-10-03T05:11:15,C00426,intermitencias,cerrado,baja,71.9,Cortes intermitentes frecuentes.
+T000357,2025-10-07T16:05:30,C00411,portabilidad,resuelto,alta,9999,Solicita portabilidad.
+T000149,2025-10-05T00:34:10,C00491,consulta_tarifa,abierto,baja,,  Consulta sobre tarifas.  
+T000131,2025-10-31T04:09:39,C00075,velocidad_baja,escalado,baja,72.2,Velocidad inferior a la contratada.
+T000199,2025-10-09T20:52:06,C00426,portabilidad,cerrado,baja,23.9,Solicita portabilidad.
+T000003,2025-10-27T23:32:00,C00210,Facturacion,escalado,baja,51.6,Cargo no reconocido en factura.
+T000127,2025-10-12T16:27:34,C00302,consulta_tarifa,resuelto,media,65.9,
+T000136,2025-10-09T12:48:47,C00308,sin_servicio,resuelto,media,40.2,Sin conexión desde hace horas.
+T000197,2025-10-10T11:14:29,C00306,intermitencias,en_proceso,alta,,Cortes intermitentes frecuentes.
+T000211,2025-10-27T21:56:29,C00129,consulta_tarifa,cerrado,media,27.6,Consulta sobre tarifas.
+T000130,2025-10-07T03:28:21,C00420,portabilidad,en_proceso,media,,  Solicita portabilidad.  
+T000075,2025-10-13T23:32:35,C00225,instalacion,en_proceso,media,,Instalación pendiente.
+T000295,2025-10-28T20:16:48,C00490,portabilidad,escalado,alta,57.2,Solicita portabilidad.
+T000362,2025-10-04T18:43:10,C00231,intermitencias,en_proceso,media,,Cortes intermitentes frecuentes.
+T000326,2025-10-08T11:32:48,C00118,consulta_tarifa,cerrado,alta,90.6,
+T000213,2025-10-22T17:48:37,C00231,instalacion,en_proceso,media,,  Instalación pendiente.  
+T000300,2025-10-27T09:12:14,C00084,portabilidad,en_proceso,media,,Solicita portabilidad.
+T000186,2025-10-09T07:13:03,C00244,averia_router,resuelto,baja,28.5,  Router no enciende.  
+T000379,2025-10-08T18:06:33,C00036,consulta_tarifa,CERRADO,baja,12.8,Consulta sobre tarifas.
+T000063,2025-10-13T10:53:57,C00153,averia_router,resuelto,media,15.8,  Router no enciende.  
+T000058,2025-10-12T14:01:15,C00194,sin_servicio,abierto,baja,,Sin conexión desde hace horas.
+T000321,2025-10-31T13:58:49,C00427,intermitencias,escalado,baja,11.1,Cortes intermitentes frecuentes.
+T000408,2025-10-09T05:14:05,C00956,facturacion,en_proceso,alta,,Cargo no reconocido en factura.
+T000415,2025-10-11T21:00:49,C00091,instalacion,en_proceso,media,,  Instalación pendiente.  
+T000377,2025-10-21T22:04:47,C00018,instalacion,escalado,baja,69.6,Instalación pendiente.
+T000347,2025-10-09T07:42:45,C00106,consulta_tarifa,abierto,baja,,Consulta sobre tarifas.
+T000302,2025-10-21T17:16:24,C00274,facturacion,escalado,critica,58.5,Cargo no reconocido en factura.
+T000392,2025-10-09T06:42:17,C00257,Sin Servicio,abierto,media,,Sin conexión desde hace horas.
+T000099,2025-10-15T08:07:09,C00200,portabilidad,en_proceso,baja,,Solicita portabilidad.
+T000171,2025-10-29T22:00:32,C00221,portabilidad,abierto,baja,,Solicita portabilidad.
+T000304,2025-10-07T10:37:41,C00268,consulta_tarifa,abierto,media,,  Consulta sobre tarifas.  
+T000286,2025-10-30T14:31:37,C00054,intermitencias,cerrado,media,8.5,Cortes intermitentes frecuentes.
+T000399,2025-10-31T21:42:35,C00463,sin_servicio,en_proceso,baja,,Sin conexión desde hace horas.
+T000241,2025-10-14T22:46:26,C00007,INTERMITENCIAS,abierto,media,,
+T000052,2025-10-05T18:01:44,C00045,facturacion,abierto,baja,,Cargo no reconocido en factura.
+T000306,2025-10-13T04:54:31,C00281,consulta_tarifa,resuelto,media,74.6,Consulta sobre tarifas.
+T000160,2025-10-21T09:27:47,C00106,portabilidad,EN_PROCESO,baja,,Solicita portabilidad.
+T000294,2025-10-03T18:19:01,C00036,sin_servicio,en_proceso,media,,  Sin conexión desde hace horas.  
+T000342,2025-10-09T05:27:25,C00908,consulta_tarifa,resuelto,media,82.5,Consulta sobre tarifas.
+T000220,2025-10-06T03:45:15,C00028,Averia_router,ABIERTO,media,,Router no enciende.
+T000296,2025-10-01T01:42:27,C00191,instalacion,cerrado,baja,26.7,Instalación pendiente.
+T000014,2025-10-23T17:59:48,C00074,Portabilidad,CERRADO,media,19.9,  Solicita portabilidad.  
+T000008,2025-10-09T11:18:14,C00366,consulta_tarifa,en_proceso,baja,,Consulta sobre tarifas.
+T000260,2025-10-09T19:01:59,C00951,sin_servicio,cerrado,media,39.9,Sin conexión desde hace horas.
+T000164,2025-10-12T03:20:32,C00251,instalacion,abierto,media,,Instalación pendiente.
+T000105,2025-10-23T20:07:23,C00124,facturacion,resuelto,media,43.4,Cargo no reconocido en factura.
+T000257,2025-10-15T11:23:52,C00367,portabilidad,cerrado,baja,0.6,Solicita portabilidad.
+T000056,2025-10-30T12:56:53,C00444,sin_servicio,EN_PROCESO,baja,,Sin conexión desde hace horas.
+T000101,2025-10-15T03:43:54,C00348,sin_servicio,en_proceso,baja,,Sin conexión desde hace horas.
+T000385,2025-10-02T20:40:56,C00105,facturacion,cerrado,baja,62.7,Cargo no reconocido en factura.
+T000333,2025-10-25T22:59:55,C00313,instalacion,resuelto,critica,42.2,  Instalación pendiente.  
+T000375,2025-10-25T00:46:01,C00025,Sin Servicio,cerrado,baja,92.6,Sin conexión desde hace horas.
+T000180,2025-10-19T12:36:13,C00017,facturacion,abierto,baja,,Cargo no reconocido en factura.
+T000019,2025-10-21T06:25:32,C00010,portabilidad,abierto,baja,,
+T000315,2025-10-27T00:40:59,C00247,sin_servicio,cerrado,baja,33.3,Sin conexión desde hace horas.
+T000177,2025-10-02T18:08:25,C00073,sin_servicio,cerrado,alta,-12.8,
+T000050,2025-10-19T09:21:06,C00456,intermitencias,en_proceso,media,,Cortes intermitentes frecuentes.
+T000046,2025-10-08T23:06:09,C00245,portabilidad,en_proceso,media,,Solicita portabilidad.
+T000319,2025-10-31T22:22:45,C00036,Instalacion,en_proceso,baja,,Instalación pendiente.
+T000351,2025-10-15T19:08:48,C00038,PORTABILIDAD,en_proceso,baja,,  Solicita portabilidad.  
+T000284,2025-10-21T12:37:06,C00087,consulta_tarifa,cerrado,media,25.6,Consulta sobre tarifas.
+T000311,2025-10-24T07:53:37,C00421,Facturacion,resuelto,baja,78.3,  Cargo no reconocido en factura.  
+T000230,2025-10-20T13:17:09,C00302,facturacion,resuelto,baja,46.2,Cargo no reconocido en factura.
+T000170,2025-10-03T10:06:43,C00239,facturacion,resuelto,critica,57.3,Cargo no reconocido en factura.
+T000085,2025-10-25T22:20:50,C00216,velocidad_baja,escalado,baja,10.9,Velocidad inferior a la contratada.
+T000068,2025-10-22T09:09:36,C00346,averia_router,cerrado,critica,14.2,Router no enciende.
+T000344,2025-10-22T13:52:11,C00412,consulta_tarifa,abierto,alta,,Consulta sobre tarifas.
+T000236,2025-10-29T12:07:41,C00346,intermitencias,resuelto,media,91.8,Cortes intermitentes frecuentes.
+T000037,2025-10-31T23:30:24,C00374,consulta_tarifa,escalado,critica,38.3,Consulta sobre tarifas.
+T000182,2025-10-28T17:51:38,C00049,portabilidad,en_proceso,baja,,  Solicita portabilidad.  
+T000153,2025-10-13T05:33:02,C00492,Intermitencias,ABIERTO,baja,,Cortes intermitentes frecuentes.
+T000002,2025-10-16T05:35:26,C00157,instalacion,resuelto,alta,14.1,Instalación pendiente.
+T000298,2025-10-18T21:20:46,C00361,Averia_router,abierto,baja,,Router no enciende.
+T000152,2025-10-03T07:49:52,C00100,facturacion,ABIERTO,media,,Cargo no reconocido en factura.
+T000400,2025-10-10T19:59:56,C00497,sin_servicio,cerrado,critica,4.0,  Sin conexión desde hace horas.  
+T000196,2025-10-12T12:57:20,C00112,facturacion,escalado,alta,58.5,Cargo no reconocido en factura.
+T000249,2025-10-05T21:50:25,C00042,intermitencias,cerrado,media,1.7,Cortes intermitentes frecuentes.
+T000373,2025-10-02T09:29:00,C00384,Facturacion,resuelto,alta,56.1,Cargo no reconocido en factura.
+T000369,2025-10-11T18:27:35,C00194,consulta_tarifa,escalado,baja,43.5,  Consulta sobre tarifas.  
+T000380,2025-10-07T19:16:17,C00456,FACTURACION,resuelto,media,90.1,Cargo no reconocido en factura.
+T000077,2025-10-17T11:48:19,C00032,velocidad_baja,resuelto,baja,48.0,Velocidad inferior a la contratada.
+T000264,2025-10-03T23:25:35,C00137,sin_servicio,escalado,media,52.8,Sin conexión desde hace horas.
+T000224,2025-10-03T15:08:03,C00461,instalacion,en_proceso,alta,,Instalación pendiente.
+T000088,2025-10-17T13:07:26,C00335,portabilidad,escalado,media,93.5,Solicita portabilidad.
+T000244,2025-10-30T01:40:09,C00284,Sin Servicio,resuelto,alta,91.8,Sin conexión desde hace horas.
+T000338,2025-10-22T13:12:54,C00151,instalacion,resuelto,critica,36.7,Instalación pendiente.
+T000310,2025-10-30T02:38:55,C00321,Instalacion,cerrado,media,24.5,Instalación pendiente.
+T000096,2025-10-30T06:42:34,C00198,VELOCIDAD_BAJA,cerrado,media,84.8,Velocidad inferior a la contratada.
+T000283,2025-10-27T14:56:26,C00118,Intermitencias,abierto,alta,,  Cortes intermitentes frecuentes.  
+T000036,2025-10-29T14:31:32,C00491,velocidad_baja,ABIERTO,media,,Velocidad inferior a la contratada.
+T000245,2025-10-23T00:05:15,C00373,instalacion,cerrado,media,54.7,Instalación pendiente.
+T000076,2025-10-04T09:19:49,C00115,Averia Router,escalado,alta,24.8,Router no enciende.
+T000041,2025-10-08T05:45:52,C00497,intermitencias,cerrado,baja,35.5,Cortes intermitentes frecuentes.
+T000410,2025-10-05T10:48:27,C00269,Averia Router,cerrado,media,5.6,Router no enciende.
+T000092,2025-10-21T14:56:22,C00192,consulta_tarifa,abierto,alta,,Consulta sobre tarifas.
+T000104,2025-10-10T01:31:52,C00270,Portabilidad,resuelto,baja,52.0,Solicita portabilidad.
+T000155,2025-10-06T18:25:00,C00365,averia_router,cerrado,media,70.3,Router no enciende.
+T000026,2025-10-23T15:23:01,C00138,facturacion,escalado,media,33.5,Cargo no reconocido en factura.
+T000281,2025-10-09T06:59:27,C00312,instalacion,EN_PROCESO,media,,Instalación pendiente.
+T000128,2025-10-23T22:59:36,C00275,INTERMITENCIAS,resuelto,baja,93.9,Cortes intermitentes frecuentes.
+T000365,2025-10-31T18:11:12,C00260,facturacion,resuelto,media,82.8,Cargo no reconocido en factura.
+T000044,2025-10-11T05:06:57,C00114,instalacion,en_proceso,baja,,Instalación pendiente.
+T000106,2025-10-05T09:17:54,C00179,instalacion,CERRADO,alta,28.0,Instalación pendiente.
+T000386,2025-10-26T11:28:15,C00110,FACTURACION,resuelto,alta,51.2,  Cargo no reconocido en factura.  
+T000409,2025-10-30T19:50:33,C00109,instalacion,ABIERTO,baja,,Instalación pendiente.
+T000079,2025-10-18T17:06:50,C00110,facturacion,abierto,media,,Cargo no reconocido en factura.
+T000100,2025-10-04T00:37:50,C00423,portabilidad,abierto,baja,,Solicita portabilidad.
+T000227,2025-10-27T00:30:34,C00352,sin_servicio,resuelto,baja,11.1,Sin conexión desde hace horas.
+T000391,2025-10-09T05:31:55,C00480,Consulta Tarifa,en_proceso,baja,,Consulta sobre tarifas.
+T000285,2025-10-21T09:30:23,C00264,Intermitencias,resuelto,baja,51.4,Cortes intermitentes frecuentes.
+T000308,2025-10-29T12:03:38,C00319,facturacion,en_proceso,baja,,  Cargo no reconocido en factura.  
+T000016,2025-10-30T14:11:12,C00463,facturacion,escalado,critica,0.9,  Cargo no reconocido en factura.  
+T000233,2025-10-05T13:31:50,C00061,consulta_tarifa,en_proceso,media,,Consulta sobre tarifas.
+T000047,2025-10-15T03:30:25,C00115,FACTURACION,escalado,media,46.4,Cargo no reconocido en factura.
+T000025,2025-10-31T01:24:46,C00356,portabilidad,abierto,alta,,Solicita portabilidad.
+T000147,2025-10-08T00:43:15,C00923,sin_servicio,resuelto,alta,39.1,Sin conexión desde hace horas.
+T000174,2025-10-11T10:54:25,C00419,Instalacion,resuelto,media,53.0,Instalación pendiente.
+T000086,2025-10-15T13:40:08,C00100,facturacion,EN_PROCESO,alta,,Cargo no reconocido en factura.
+T000191,2025-10-01T08:10:20,C00185,averia_router,cerrado,media,72.6,Router no enciende.
+T000305,2025-10-02T02:07:53,C00213,sin_servicio,abierto,baja,,Sin conexión desde hace horas.
+T000250,2025-10-14T17:41:37,C00278,sin_servicio,escalado,baja,34.4,  Sin conexión desde hace horas.  
+T000299,2025-10-27T05:04:25,C00094,velocidad_baja,ABIERTO,media,,Velocidad inferior a la contratada.
+T000229,2025-10-31T00:12:16,C00480,Sin_servicio,resuelto,media,70.1,  Sin conexión desde hace horas.  
+T000124,2025-10-27T07:31:01,C00456,velocidad_baja,abierto,media,,Velocidad inferior a la contratada.
+T000173,2025-10-13T17:38:01,C00149,instalacion,en_proceso,baja,,Instalación pendiente.
+T000172,2025-10-29T22:19:25,C00175,portabilidad,resuelto,baja,6.6,Solicita portabilidad.
+T000033,2025-10-26T17:47:03,C00345,averia_router,en_proceso,baja,,Router no enciende.
+T000397,2025-10-20T17:16:11,C00470,sin_servicio,en_proceso,baja,,Sin conexión desde hace horas.
+T000006,2025-10-10T16:01:07,C00175,intermitencias,escalado,alta,94.2,Cortes intermitentes frecuentes.
+T000268,2025-10-21T22:55:46,C00475,Facturacion,resuelto,media,38.1,Cargo no reconocido en factura.
+T000034,2025-10-11T04:23:13,C00328,intermitencias,en_proceso,baja,,Cortes intermitentes frecuentes.
+T000102,2025-10-20T22:08:21,C00007,consulta_tarifa,escalado,media,23.5,Consulta sobre tarifas.
+T000181,2025-10-30T22:55:13,C00248,averia_router,abierto,baja,,Router no enciende.
+T000312,2025-10-25T09:23:57,C00393,SIN_SERVICIO,ABIERTO,critica,,
+T000388,2025-10-30T02:57:42,C00131,Instalacion,abierto,alta,,Instalación pendiente.
+T000051,2025-10-08T18:43:23,C00207,Intermitencias,EN_PROCESO,baja,,Cortes intermitentes frecuentes.
+T000091,2025-10-09T01:46:11,C00011,averia_router,resuelto,critica,20.5,Router no enciende.
+T000381,2025-10-01T05:44:25,C00299,intermitencias,en_proceso,media,,Cortes intermitentes frecuentes.
+T000159,2025-10-22T18:28:37,C00144,portabilidad,escalado,baja,75.2,Solicita portabilidad.
+T000402,2025-10-28T23:19:31,C00348,instalacion,escalado,baja,86.9,  Instalación pendiente.  
+T000151,2025-10-16T17:12:56,C00001,intermitencias,cerrado,media,8.0,Cortes intermitentes frecuentes.
+T000157,2025-10-26T10:50:29,C00398,velocidad_baja,EN_PROCESO,alta,,  Velocidad inferior a la contratada.  
+T000111,2025-10-05T02:22:14,C00103,Instalacion,ESCALADO,baja,7.5,  Instalación pendiente.  
+T000175,2025-10-07T19:26:04,C00080,facturacion,abierto,baja,,Cargo no reconocido en factura.
+T000278,2025-10-01T21:44:29,C00268,instalacion,cerrado,baja,33.4,Instalación pendiente.
+T000403,2025-10-04T16:20:05,C00350,instalacion,resuelto,baja,52.0,Instalación pendiente.
+T000108,2025-10-30T11:28:07,C00976,Sin_servicio,abierto,media,,Sin conexión desde hace horas.
+T000061,2025-10-16T23:51:53,C00273,averia_router,abierto,baja,,Router no enciende.
+T000345,2025-10-03T16:49:54,C00064,velocidad_baja,resuelto,alta,81.2,Velocidad inferior a la contratada.
+T000125,2025-10-06T19:50:07,C00309,velocidad_baja,escalado,media,25.3,Velocidad inferior a la contratada.
+T000129,2025-10-30T00:14:47,C00071,intermitencias,abierto,media,,Cortes intermitentes frecuentes.
+T000320,2025-10-04T10:40:35,C00124,portabilidad,cerrado,media,93.0,Solicita portabilidad.
+T000401,2025-10-17T14:24:01,C00212,intermitencias,en_proceso,baja,,
+T000090,2025-10-19T02:42:58,C00478,portabilidad,abierto,alta,,  Solicita portabilidad.  
+T000387,2025-10-28T16:40:02,C00232,instalacion,resuelto,baja,25.7,Instalación pendiente.
+T000414,2025-10-24T11:29:34,C00380,averia_router,en_proceso,media,,Router no enciende.
+T000273,2025-10-28T10:50:00,C00253,velocidad_baja,resuelto,media,91.0,Velocidad inferior a la contratada.
+T000277,2025-10-11T14:09:17,C00442,portabilidad,en_proceso,baja,,Solicita portabilidad.
+T000352,2025-10-31T01:57:24,C00127,Averia_router,en_proceso,alta,,Router no enciende.
+T000290,2025-10-27T04:39:01,C00120,consulta_tarifa,escalado,media,48.7,Consulta sobre tarifas.
+T000203,2025-10-01T11:11:52,C00294,consulta_tarifa,abierto,media,,Consulta sobre tarifas.
+T000382,2025-10-06T16:55:26,C00408,Instalacion,escalado,media,32.3,Instalación pendiente.
+T000240,2025-10-10T09:17:06,C00493,velocidad_baja,CERRADO,media,68.8,  Velocidad inferior a la contratada.  
+T000343,2025-10-29T03:33:26,C00297,Sin Servicio,en_proceso,baja,,Sin conexión desde hace horas.
+T000206,2025-10-31T22:40:15,C00083,sin_servicio,resuelto,alta,38.9,  Sin conexión desde hace horas.  
+T000350,2025-10-08T05:10:48,C00328,consulta_tarifa,escalado,media,22.8,Consulta sobre tarifas.
+T000148,2025-10-15T18:29:44,C00399,intermitencias,en_proceso,critica,,Cortes intermitentes frecuentes.
+T000143,2025-10-02T03:56:35,C00959,intermitencias,en_proceso,media,,Cortes intermitentes frecuentes.
+T000346,2025-10-04T23:59:09,C00365,consulta_tarifa,RESUELTO,baja,69.1,  Consulta sobre tarifas.  
+T000407,2025-10-11T02:52:20,C00272,facturacion,en_proceso,critica,,Cargo no reconocido en factura.
+T000334,2025-10-12T19:10:45,C00496,portabilidad,cerrado,media,-20.9,Solicita portabilidad.
+T000303,2025-10-25T05:28:22,C00190,Facturacion,cerrado,baja,22.7,  Cargo no reconocido en factura.  
+T000217,2025-10-30T03:09:45,C00037,sin_servicio,escalado,alta,88.8,Sin conexión desde hace horas.
+T000095,2025-10-19T23:44:06,C00262,Velocidad_baja,en_proceso,baja,,Velocidad inferior a la contratada.
+T000013,2025-10-20T00:08:09,C00308,INTERMITENCIAS,cerrado,baja,95.5,Cortes intermitentes frecuentes.
