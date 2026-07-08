@@ -2,12 +2,12 @@
 
 Paquete autónomo para ejecutar el laboratorio en un **SageMaker Notebook** (kernel Python 3).
 
-## Contenido del ZIP
+## Contenido
 - `Lab10_Auditoria_Sesgos_Telco.ipynb`  ← abre y ejecuta este notebook de principio a fin.
 - `telco_model_audit_lab10.csv`  (1000 filas: y_true, y_pred, y_score, grupos)
 
 ## Cómo ejecutarlo
-1. Sube **todos** los ficheros de este ZIP a la misma carpeta de tu instancia de SageMaker Notebook
+1. Sube **todos** los ficheros a la misma carpeta de tu instancia de SageMaker Notebook
    (o a tu entorno Jupyter local).
 2. Abre el `.ipynb` y ejecuta las celdas en orden (Run All).
 3. La primera celda de código instala las dependencias necesarias: pandas, matplotlib.
