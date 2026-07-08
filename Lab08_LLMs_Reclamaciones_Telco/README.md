@@ -2,13 +2,13 @@
 
 Paquete autónomo para ejecutar el laboratorio en un **SageMaker Notebook** (kernel Python 3).
 
-## Contenido del ZIP
+## Contenido
 - `Lab08_LLMs_Reclamaciones_Telco.ipynb`  ← abre y ejecuta este notebook de principio a fin.
 - `telco_tickets_text_lab8.csv`  (120 tickets de texto libre)
 - `mi_anotacion.csv`  (10 tickets anotados a mano para validar)
 
 ## Cómo ejecutarlo
-1. Sube **todos** los ficheros de este ZIP a la misma carpeta de tu instancia de SageMaker Notebook
+1. Sube **todos** los ficherosa la misma carpeta de tu instancia de SageMaker Notebook
    (o a tu entorno Jupyter local).
 2. Abre el `.ipynb` y ejecuta las celdas en orden (Run All).
 3. La primera celda de código instala las dependencias necesarias: pandas (boto3 solo si activas Bedrock).
