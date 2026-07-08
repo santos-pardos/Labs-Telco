@@ -1,0 +1,121 @@
+ticket_id,region,channel,text
+TCK-0001,Bilbao,email,Llevo varias horas sin internet en casa y el router parpadea en rojo. Necesito que lo revisen cuanto antes. Es urgente porque afecta a mi trabajo.
+TCK-0002,Madrid,web,Quiero saber si puedo cambiar a una tarifa con más datos móviles.
+TCK-0003,Barcelona,email,Necesito información sobre la permanencia de mi contrato actual.
+TCK-0004,Madrid,email,Quiero cambiar el titular de la línea por motivos familiares.
+TCK-0005,Bilbao,email,¿La televisión incluida permite ver el fútbol o es un paquete aparte?
+TCK-0006,Valencia,redes,La velocidad real es muy inferior a la prometida y no puedo teletrabajar bien.
+TCK-0007,Zaragoza,app,Quiero saber si puedo cambiar a una tarifa con más datos móviles.
+TCK-0008,Bilbao,call_center,Necesito información sobre la permanencia de mi contrato actual.
+TCK-0009,Valencia,app,Necesito información sobre la permanencia de mi contrato actual.
+TCK-0010,Sevilla,web,Quiero felicitar al equipo de soporte por ayudarme con la configuración del router.
+TCK-0011,Madrid,call_center,La factura incluye un cargo de televisión que no he contratado.
+TCK-0012,Bilbao,app,El técnico no acudió a la cita de instalación y nadie me avisó.
+TCK-0013,Valencia,redes,Necesito información sobre la permanencia de mi contrato actual.
+TCK-0014,Barcelona,web,La velocidad real es muy inferior a la prometida y no puedo teletrabajar bien.
+TCK-0015,Bilbao,redes,Llevo varias horas sin internet en casa y el router parpadea en rojo. Necesito que lo revisen cuanto antes.
+TCK-0016,Valencia,email,Quiero traer dos líneas desde otro operador y necesito confirmar plazos. Es urgente porque afecta a mi trabajo.
+TCK-0017,Valencia,web,Necesito cambiar la fecha de instalación de fibra porque no estaré en casa.
+TCK-0018,Barcelona,redes,Después de varias incidencias quiero tramitar la baja del servicio.
+TCK-0019,Zaragoza,email,Me han cobrado dos veces la cuota mensual y necesito la devolución.
+TCK-0020,Barcelona,web,Quiero traer dos líneas desde otro operador y necesito confirmar plazos.
+TCK-0021,Barcelona,call_center,Se ha caído la conexión varias veces durante una reunión y el servicio sigue intermitente.
+TCK-0022,Sevilla,web,Quiero traer dos líneas desde otro operador y necesito confirmar plazos.
+TCK-0023,Zaragoza,web,No estoy satisfecho y quiero dar de baja la fibra y el móvil.
+TCK-0024,Zaragoza,call_center,Quiero felicitar al equipo de soporte por ayudarme con la configuración del router.
+TCK-0025,Bilbao,email,Desde esta mañana no funciona la línea fija ni la fibra. En la app aparece incidencia en mi zona. Es urgente porque afecta a mi trabajo.
+TCK-0026,Madrid,call_center,Llevo varias horas sin internet en casa y el router parpadea en rojo. Necesito que lo revisen cuanto antes. Es urgente porque afecta a mi trabajo.
+TCK-0027,Barcelona,redes,La instalación quedó pendiente porque faltaba acceso al cuarto de comunicaciones.
+TCK-0028,Madrid,app,Pedí portabilidad hace diez días y todavía no se ha completado. Necesito saber el estado.
+TCK-0029,Barcelona,app,Tengo contratados 600 Mb pero el test no pasa de 90 Mb desde hace días.
+TCK-0030,Madrid,redes,Necesito cambiar la fecha de instalación de fibra porque no estaré en casa.
+TCK-0031,Valencia,email,Llevo varias horas sin internet en casa y el router parpadea en rojo. Necesito que lo revisen cuanto antes. Es urgente porque afecta a mi trabajo.
+TCK-0032,Zaragoza,redes,Me han cobrado dos veces la cuota mensual y necesito la devolución.
+TCK-0033,Sevilla,email,Me han cobrado dos veces la cuota mensual y necesito la devolución. No autorizo ese cargo.
+TCK-0034,Zaragoza,email,Me han cobrado dos veces la cuota mensual y necesito la devolución.
+TCK-0035,Sevilla,app,Mi número móvil está sin servicio tras la portabilidad y nadie me da solución.
+TCK-0036,Madrid,app,La velocidad real es muy inferior a la prometida y no puedo teletrabajar bien.
+TCK-0037,Madrid,web,Mi número móvil está sin servicio tras la portabilidad y nadie me da solución. Es urgente porque afecta a mi trabajo.
+TCK-0038,Sevilla,web,La velocidad real es muy inferior a la prometida y no puedo teletrabajar bien.
+TCK-0039,Sevilla,web,Mi número móvil está sin servicio tras la portabilidad y nadie me da solución.
+TCK-0040,Sevilla,redes,Tengo contratados 600 Mb pero el test no pasa de 90 Mb desde hace días. Esto ocurre sobre todo por la noche.
+TCK-0041,Bilbao,app,Quiero traer dos líneas desde otro operador y necesito confirmar plazos.
+TCK-0042,Barcelona,email,Me han cobrado dos veces la cuota mensual y necesito la devolución.
+TCK-0043,Sevilla,app,El técnico no acudió a la cita de instalación y nadie me avisó.
+TCK-0044,Sevilla,app,Tengo contratados 600 Mb pero el test no pasa de 90 Mb desde hace días.
+TCK-0045,Sevilla,call_center,Mi número móvil está sin servicio tras la portabilidad y nadie me da solución.
+TCK-0046,Bilbao,email,Quiero traer dos líneas desde otro operador y necesito confirmar plazos. Es urgente porque afecta a mi trabajo.
+TCK-0047,Barcelona,app,"La conexión va muy lenta por las tardes, especialmente al ver televisión en streaming."
+TCK-0048,Madrid,call_center,No entiendo el aumento de precio de este mes; solicito revisión de la factura. No autorizo ese cargo.
+TCK-0049,Sevilla,redes,No estoy satisfecho y quiero dar de baja la fibra y el móvil.
+TCK-0050,Barcelona,app,La instalación fue puntual y limpia. Muy buen servicio.
+TCK-0051,Madrid,web,La velocidad real es muy inferior a la prometida y no puedo teletrabajar bien. Esto ocurre sobre todo por la noche.
+TCK-0052,Zaragoza,web,Llevo varias horas sin internet en casa y el router parpadea en rojo. Necesito que lo revisen cuanto antes.
+TCK-0053,Barcelona,redes,No entiendo el aumento de precio de este mes; solicito revisión de la factura.
+TCK-0054,Madrid,email,Necesito información sobre la permanencia de mi contrato actual.
+TCK-0055,Bilbao,redes,Se ha caído la conexión varias veces durante una reunión y el servicio sigue intermitente.
+TCK-0056,Barcelona,call_center,La factura incluye un cargo de televisión que no he contratado. No autorizo ese cargo.
+TCK-0057,Barcelona,call_center,Necesito actualizar mis datos de contacto y no encuentro la opción en la app.
+TCK-0058,Valencia,app,La factura incluye un cargo de televisión que no he contratado. No autorizo ese cargo.
+TCK-0059,Bilbao,app,Se ha caído la conexión varias veces durante una reunión y el servicio sigue intermitente. Es urgente porque afecta a mi trabajo.
+TCK-0060,Bilbao,call_center,Después de varias incidencias quiero tramitar la baja del servicio. Es urgente porque afecta a mi trabajo.
+TCK-0061,Madrid,web,Necesito cambiar la fecha de instalación de fibra porque no estaré en casa.
+TCK-0062,Valencia,web,Necesito cambiar la fecha de instalación de fibra porque no estaré en casa.
+TCK-0063,Bilbao,call_center,"La conexión va muy lenta por las tardes, especialmente al ver televisión en streaming."
+TCK-0064,Bilbao,app,No entiendo el aumento de precio de este mes; solicito revisión de la factura.
+TCK-0065,Valencia,app,La velocidad real es muy inferior a la prometida y no puedo teletrabajar bien.
+TCK-0066,Valencia,app,Llevo varias horas sin internet en casa y el router parpadea en rojo. Necesito que lo revisen cuanto antes.
+TCK-0067,Bilbao,web,La instalación quedó pendiente porque faltaba acceso al cuarto de comunicaciones.
+TCK-0068,Valencia,redes,Desde esta mañana no funciona la línea fija ni la fibra. En la app aparece incidencia en mi zona. Es urgente porque afecta a mi trabajo.
+TCK-0069,Barcelona,call_center,Mi número móvil está sin servicio tras la portabilidad y nadie me da solución.
+TCK-0070,Madrid,app,Desde esta mañana no funciona la línea fija ni la fibra. En la app aparece incidencia en mi zona.
+TCK-0071,Madrid,app,"La conexión va muy lenta por las tardes, especialmente al ver televisión en streaming."
+TCK-0072,Zaragoza,call_center,Me han cobrado dos veces la cuota mensual y necesito la devolución. No autorizo ese cargo.
+TCK-0073,Bilbao,email,La factura incluye un cargo de televisión que no he contratado.
+TCK-0074,Madrid,web,Llevo varias horas sin internet en casa y el router parpadea en rojo. Necesito que lo revisen cuanto antes.
+TCK-0075,Bilbao,redes,La factura incluye un cargo de televisión que no he contratado. No autorizo ese cargo.
+TCK-0076,Madrid,call_center,Después de varias incidencias quiero tramitar la baja del servicio. Es urgente porque afecta a mi trabajo.
+TCK-0077,Valencia,web,El técnico resolvió la avería muy rápido y fue muy amable. Gracias por la atención.
+TCK-0078,Barcelona,app,Quiero cambiar el titular de la línea por motivos familiares.
+TCK-0079,Bilbao,email,Solicito cancelar mi contrato al finalizar la permanencia.
+TCK-0080,Barcelona,web,Se ha caído la conexión varias veces durante una reunión y el servicio sigue intermitente.
+TCK-0081,Sevilla,app,Quiero saber si puedo cambiar a una tarifa con más datos móviles.
+TCK-0082,Zaragoza,call_center,Me han cobrado dos veces la cuota mensual y necesito la devolución.
+TCK-0083,Zaragoza,web,Solicito cancelar mi contrato al finalizar la permanencia. Es urgente porque afecta a mi trabajo.
+TCK-0084,Madrid,email,Se ha caído la conexión varias veces durante una reunión y el servicio sigue intermitente.
+TCK-0085,Barcelona,web,Desde esta mañana no funciona la línea fija ni la fibra. En la app aparece incidencia en mi zona.
+TCK-0086,Valencia,call_center,Necesito actualizar mis datos de contacto y no encuentro la opción en la app.
+TCK-0087,Barcelona,app,Después de varias incidencias quiero tramitar la baja del servicio.
+TCK-0088,Valencia,call_center,Mi número móvil está sin servicio tras la portabilidad y nadie me da solución.
+TCK-0089,Valencia,redes,Quiero felicitar al equipo de soporte por ayudarme con la configuración del router.
+TCK-0090,Zaragoza,redes,La factura incluye un cargo de televisión que no he contratado.
+TCK-0091,Madrid,call_center,El técnico resolvió la avería muy rápido y fue muy amable. Gracias por la atención.
+TCK-0092,Bilbao,call_center,Quiero saber si puedo cambiar a una tarifa con más datos móviles.
+TCK-0093,Madrid,redes,Quiero saber si puedo cambiar a una tarifa con más datos móviles.
+TCK-0094,Valencia,call_center,¿La televisión incluida permite ver el fútbol o es un paquete aparte?
+TCK-0095,Bilbao,redes,"La conexión va muy lenta por las tardes, especialmente al ver televisión en streaming. Esto ocurre sobre todo por la noche."
+TCK-0096,Barcelona,call_center,La instalación quedó pendiente porque faltaba acceso al cuarto de comunicaciones.
+TCK-0097,Zaragoza,email,Después de varias incidencias quiero tramitar la baja del servicio. Es urgente porque afecta a mi trabajo.
+TCK-0098,Zaragoza,web,La instalación quedó pendiente porque faltaba acceso al cuarto de comunicaciones.
+TCK-0099,Sevilla,app,Mi número móvil está sin servicio tras la portabilidad y nadie me da solución.
+TCK-0100,Bilbao,call_center,"La conexión va muy lenta por las tardes, especialmente al ver televisión en streaming."
+TCK-0101,Zaragoza,call_center,Tengo contratados 600 Mb pero el test no pasa de 90 Mb desde hace días.
+TCK-0102,Sevilla,call_center,No estoy satisfecho y quiero dar de baja la fibra y el móvil.
+TCK-0103,Bilbao,web,Necesito actualizar mis datos de contacto y no encuentro la opción en la app.
+TCK-0104,Sevilla,email,Llevo varias horas sin internet en casa y el router parpadea en rojo. Necesito que lo revisen cuanto antes.
+TCK-0105,Bilbao,redes,Me han cobrado dos veces la cuota mensual y necesito la devolución.
+TCK-0106,Madrid,call_center,La instalación quedó pendiente porque faltaba acceso al cuarto de comunicaciones.
+TCK-0107,Barcelona,email,Desde esta mañana no funciona la línea fija ni la fibra. En la app aparece incidencia en mi zona.
+TCK-0108,Zaragoza,call_center,Quiero traer dos líneas desde otro operador y necesito confirmar plazos.
+TCK-0109,Zaragoza,web,Quiero felicitar al equipo de soporte por ayudarme con la configuración del router.
+TCK-0110,Sevilla,web,Necesito información sobre la permanencia de mi contrato actual.
+TCK-0111,Madrid,call_center,Se ha caído la conexión varias veces durante una reunión y el servicio sigue intermitente.
+TCK-0112,Bilbao,call_center,Quiero cambiar el titular de la línea por motivos familiares.
+TCK-0113,Barcelona,call_center,Llevo varias horas sin internet en casa y el router parpadea en rojo. Necesito que lo revisen cuanto antes. Es urgente porque afecta a mi trabajo.
+TCK-0114,Barcelona,app,Tengo contratados 600 Mb pero el test no pasa de 90 Mb desde hace días. Esto ocurre sobre todo por la noche.
+TCK-0115,Bilbao,app,"La conexión va muy lenta por las tardes, especialmente al ver televisión en streaming."
+TCK-0116,Bilbao,web,La velocidad real es muy inferior a la prometida y no puedo teletrabajar bien.
+TCK-0117,Sevilla,email,¿La televisión incluida permite ver el fútbol o es un paquete aparte?
+TCK-0118,Barcelona,app,Llevo varias horas sin internet en casa y el router parpadea en rojo. Necesito que lo revisen cuanto antes.
+TCK-0119,Sevilla,web,Llevo varias horas sin internet en casa y el router parpadea en rojo. Necesito que lo revisen cuanto antes. Es urgente porque afecta a mi trabajo.
+TCK-0120,Bilbao,email,La instalación quedó pendiente porque faltaba acceso al cuarto de comunicaciones.

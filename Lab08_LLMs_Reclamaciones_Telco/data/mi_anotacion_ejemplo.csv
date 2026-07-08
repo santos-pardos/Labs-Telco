@@ -1,0 +1,11 @@
+ticket_id,tema_humano,urgencia_humana,sentimiento_humano
+TCK-0001,averia,alta,negativo
+TCK-0002,consulta,baja,neutral
+TCK-0003,consulta,baja,neutral
+TCK-0004,otro,baja,neutral
+TCK-0005,consulta,baja,neutral
+TCK-0006,velocidad,alta,negativo
+TCK-0007,consulta,baja,neutral
+TCK-0008,consulta,baja,neutral
+TCK-0009,consulta,baja,neutral
+TCK-0010,felicitacion,baja,positivo
