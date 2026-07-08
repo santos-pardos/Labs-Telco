@@ -2,12 +2,12 @@
 
 Paquete autónomo para ejecutar el laboratorio en un **SageMaker Notebook** (kernel Python 3).
 
-## Contenido del ZIP
+## Contenido
 - `Lab09_Mapa_Causal_Telco.ipynb`  ← abre y ejecuta este notebook de principio a fin.
 - `telco_causal_lab9.csv`  (900 filas con estructura causal oculta)
 
 ## Cómo ejecutarlo
-1. Sube **todos** los ficheros de este ZIP a la misma carpeta de tu instancia de SageMaker Notebook
+1. Sube **todos** los ficheros a la misma carpeta de tu instancia de SageMaker Notebook
    (o a tu entorno Jupyter local).
 2. Abre el `.ipynb` y ejecuta las celdas en orden (Run All).
 3. La primera celda de código instala las dependencias necesarias: pandas, networkx, matplotlib.
