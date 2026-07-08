@@ -2,14 +2,14 @@
 
 Paquete autónomo para ejecutar el laboratorio en un **SageMaker Notebook** (kernel Python 3).
 
-## Contenido del ZIP
+## Contenido
 - `Lab06_Resiliencia_Red_Telco.ipynb`  ← abre y ejecuta este notebook de principio a fin.
 - `network_nodes.csv`
 - `network_edges.csv`
 - `customer_nodes.csv`   (la misma red del Lab 5)
 
 ## Cómo ejecutarlo
-1. Sube **todos** los ficheros de este ZIP a la misma carpeta de tu instancia de SageMaker Notebook
+1. Sube **todos** los ficheros a la misma carpeta de tu instancia de SageMaker Notebook
    (o a tu entorno Jupyter local).
 2. Abre el `.ipynb` y ejecuta las celdas en orden (Run All).
 3. La primera celda de código instala las dependencias necesarias: pandas, networkx, matplotlib.
